@@ -1,0 +1,21 @@
+Approach:
+1. Simple Naive bayes: Simple implementation with add one smoothing. 
+2. Remove duplicates: Suggestion picked up from text book. Ignore repeat wors with in the document.
+Noticed most incorrect decisions are made whenever no of unknown words are more. In those cases model went with less unknown words decision which wasn't correct
+all the time. Though Stemming would help decrease the misses.
+3. Stemming: Imported Stemming Code from Porter's webpage & used it as function. This brought unknown words down by 2 points. 
+4. Distinguish negation Sentences: Suggestion picked up from text book. Distinguish negation sentence words (don't like, like) => [don't,!like],[like]. 
+I noticed that double negation sentences and complex negation statements couldn't be handled, it started becoming difficult to capture them with simple 
+regex matches, we would need to extract other syntactic information to effectively handle them.
+
+Results:
+Approach				Incorrect Count	Precision	Recall	Fmeasure	Unknown Words in +ve side	Unknown Words in -ve side
+Simple Naive bayes			2.55		0.89115		0.8817	0.8835		24.3825				24.565
+Remove duplicates			1.8		0.9409		0.89535	0.91375		22.765				22.49
+Stem all words				1.8		0.9493		0.88625	0.91395		20.525				19.9425
+Distinguish negation sentences		1.45		0.92935		0.9454	0.93525		20.63				20.7425
+
+Validation Method:
+Randomly picked up 10 sentences from both positive and negative dataset and cross validated them. Made sure picked test sentences are not trained. Above results
+are averaged over 20 iterations in each approach for consistency.
+
