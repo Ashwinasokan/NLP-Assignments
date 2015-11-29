@@ -3,8 +3,12 @@ import os
 import re
 import pprint
 
-email_pat = '([a-zA-Z0-9_.]+)\s*(?:@|at|&#x40;|WHERE)\s*([a-zA-Z0-9_.;]+)\s*(?:.|dot|dt|DOM|;)\s*(edu|com)\s*'
-phone_pat = '\((\d{3})\)(\d{3})-(\d{4})'
+email_pat = '([a-zA-Z0-9_.]+)(?:\s*@\s*|\s+at\s+|\s*&#x40;\s*|\s*WHERE\s*)([a-zA-Z0-9_.;]+)\s*(?:.|dot|dt|DOM|;)\s*(edu|com)\s*'
+email2_pat = '(\w+)(?:\s+at\s+)(\w+)(?:\s+dot\s+|;|\s)(\w+)(?:\s+dot\s+|;|\s)(edu)'
+email3_pat = '\(\'(\w+).(\w+)\',\'(\w+)\'\)'
+email4_pat = '([a-zA-Z0-9_.]+)\s*\(\s*followed\s*by\s*(?:\"|&ldquo;)@([a-zA-Z0-9_.]+).(edu)'
+phone_pat = '\(?(\d{3})\)?\s*-?\s*(\d{3})-(\d{4})'
+phone2_pat = '\s(\d{3})\s(\d{3})\s(\d{4})'
 
 """
 TODO
@@ -36,15 +40,33 @@ def process_file(name, f):
         matches = re.findall(email_pat,line_,re.IGNORECASE)
         for m in matches:
 	    m = tuple(map(str.lower,filter(None,map(str.strip, m))))
-	    if(len(m) == 4):
-           	email = '%s@%s.%s.%s' % m
-	    else:
-		email = '%s@%s.%s' % m
+	    email = '%s@%s.%s' % m
+            res.append((name,'e',email))
+	matches = re.findall(email2_pat,line_,re.IGNORECASE)
+        for m in matches:
+	    if 'dot' in m:
+	 	break 
+            m = tuple(map(str.lower,filter(None,map(str.strip, m))))
+            email = '%s@%s.%s.%s' % m
+            res.append((name,'e',email))
+	matches = re.findall(email3_pat,line_,re.IGNORECASE)
+        for m in matches:
+            m = tuple(map(str.lower,filter(None,map(str.strip, m))))
+            email = '%s@%s.%s' % (m[2],m[0],m[1])
+            res.append((name,'e',email))
+	matches = re.findall(email4_pat,line_,re.IGNORECASE)
+        for m in matches:
+            m = tuple(map(str.lower,filter(None,map(str.strip, m))))
+            email = '%s@%s.%s' % m
             res.append((name,'e',email))
 	matches = re.findall(phone_pat,line,re.IGNORECASE)
         for m in matches:
             m = tuple(map(str.lower,filter(None,map(str.strip, m))))
-            print m
+            phone = '%s-%s-%s' % m
+            res.append((name,'p',phone))
+	matches = re.findall(phone2_pat,line,re.IGNORECASE)
+	for m in matches:
+            m = tuple(map(str.lower,filter(None,map(str.strip, m))))
             phone = '%s-%s-%s' % m
             res.append((name,'p',phone))
     return res
