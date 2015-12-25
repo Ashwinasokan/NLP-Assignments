@@ -1,0 +1,18 @@
+{
+    "contents" : "# Load the data from the csv file\ndataDirectory <- \"/home/ashwin/Documents/Practice/DeceptionDetection/\" # put your own folder here\ndata <- read.csv(paste(dataDirectory, 'hotel-train.csv', sep=\"\"), header = TRUE, sep=\"|\")\n# Create the document term matrix\ndtMatrix <- create_matrix(data[\"Text\"])\n# Configure the training data\ncontainer <- create_container(dtMatrix, data$Deceptive, trainSize=1:397, virgin=FALSE)\n# train a SVM Model\nmodel <- train_model(container, \"SVM\", kernel=\"linear\", cost=1)\n# new data\ntestData <- read.csv(paste(dataDirectory, 'hotel-test.csv', sep=\"\"), header = TRUE, sep = \"|\")\npredictionData <- testData$Text\n# create a prediction document term matrix\npredMatrix <- create_matrix(predictionData, originalMatrix=dtMatrix)\n# create the corresponding container\npredSize = length(predictionData);\npredictionContainer <- create_container(predMatrix, labels=rep(0,predSize), testSize=1:predSize, virgin=FALSE)\n# predict\nresults <- classify_model(predictionContainer, model)\nresults$Deceptive <- testData$Deceptive\npredict <- list(results$SVM_LABEL)\ntrue <- list(testData$Deceptive)\nretrieved <- sum(predict)\nprecision <- sum(predict & true) / retrieved\nrecall <- sum(predict & true) / sum(true)\nFmeasure <- 2 * precision * recall / (precision + recall)\nresults\nretrieved\nprecision\nrecall\nFmeasure",
+    "created" : 1448875251220.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3530496227",
+    "id" : "34DD80CD",
+    "lastKnownWriteTime" : 1448965104,
+    "path" : "~/Documents/Practice/DeceptionDetection/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "type" : "r_source"
+}
