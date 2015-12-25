@@ -1,0 +1,29 @@
+Approach:
+1. Simple Naive bayes: Simple implementation with add one smoothing. 
+2. Remove duplicates: Ignore repeat words with in the document.
+Noticed most incorrect decisions are made whenever no of unknown words are more. In those cases model went with less unknown words decision which wasn't correct all the time. Thought Stemming would help decrease the misses.
+3. Stemming: Imported Stemming Code from Porter's webpage & used it as function. This brought unknown words down by 2 points.
+4. Looked at the intersection of words between the Positive & Negative class. Noticed that they are more or less having pretty much same words. So They don't have any distinguishing factor to learn from. Tried to remove the common words from each classes & tried with rest. Results went further bad.
+5. In some deception detection papers It has been suggested that SVM outperforms plain naive bayes by 5%. Tried to code using SVM. Was able to make it work with R but results didn't improve very much. Not able to figure out how to tune its features.(New to toolkits like R)  
+6. Suggestion from class, Use Sentiment as feature: As suggested in class, noticed that corpus is biased towards the fact that there will be more positive deceptive reviews.
+(positiveTrueReviews, negativeTrueReviews, positiveFalseReviews, negativeFalseReviews)
+(203, 211, 103, 97)
+Extracted the sentiment & used it to distinguish the words that are common. like this
+Top 20 True Review unigrams. 0 before the word indicates its from negative review
+[('0the', 1884), ('1the', 1866), ('1and', 1048), ('0and', 798), ('1a', 776), ('0to', 740), ('0wa', 715), ('0i', 621), ('1wa', 609), ('0a', 565), ('1to', 557), ('1i', 449), ('1in', 429), ('0in', 396), ('1of', 379), ('0we', 375), ('1hotel', 351), ('1is', 343), ('0of', 341), ('0room', 334), ('0it', 313), ('0at', 290), ('0hotel', 286), ('0not', 284), ('0were', 277)]
+Top 20 Deceptive Review unigrams. 1 before the word indicates its from positive review
+[('0the', 868), ('1the', 667), ('0to', 423), ('1and', 385), ('0i', 372), ('0and', 368), ('0a', 312), ('0wa', 305), ('1a', 266), ('1wa', 263), ('1to', 249), ('0in', 212), ('0of', 167), ('0it', 152), ('1in', 151), ('0room', 146), ('1i', 143), ('0hotel', 141), ('0not', 140), ('1of', 137), ('0for', 130), ('0that', 124), ('1is', 122), ('1we', 122), ('0we', 122)]
+(205, 209, 101, 99)
+
+Surprisingly this helped. But I agree as per class discussion this isn't ideal way to deal with the problem. i.e exploiting the distribution of sentiment in the corpus.
+Results:
+Approach				Precision	Recall		Accuracy	Fmeasure	
+Simple Naive bayes			0.4827591853	0.3766666667	0.485		0.4159729076	
+Stem all words				0.4644206529	0.3733333333	0.4716666667	0.4100273294
+Remove Duplicates			0.5329861831	0.3566666667	0.5216666667	0.4163153481
+Simple SVM				0.5588744589	0.3625		0.5283088235	0.4303132305
+Naive bayes with Sentiment feature	0.6589882351	0.77		0.6833333333	0.7064143405
+
+Validation Method:
+Randomly picked up 10 sentences from both positive and negative dataset and cross validated them. Made sure picked test sentences are not trained. Above results are averaged over 20 iterations in each approach for consistency.
+

@@ -1,0 +1,16756 @@
+<pre>	<pre>
+<start>	<start>
+BACKGROUND
+:
+Ischemic
+heart
+disease
+is
+the
+primary
+cause
+of
+morbidity
+and
+mortality
+among
+diabetics
+,
+especially
+those
+who
+became
+ill
+at
+a
+young
+age
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+More
+importantly
+,
+this
+fusion
+converted
+a
+less
+effective
+vaccine
+into
+one
+with
+significant
+potency
+against
+established
+E7
+-
+expressing
+metastatic
+tumors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Reverse
+transcription
+-
+PCR
+analysis
+of
+mRNA
+from
+patients
+shows
+that
+each
+of
+these
+five
+mutations
+results
+in
+aberrant
+splicing
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Using
+the
+postural
+and
+force
+data
+as
+input
+to
+a
+3
+-
+D
+biomechanical
+model
+,
+the
+lumbosacral
+spinal
+compression
+was
+calculated
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sequence
+analysis
+revealed
+significant
+differences
+between
+the
+5
+'
+region
+of
+the
+beta
+subunit
+gene
+and
+the
+corresponding
+regions
+of
+the
+homologous
+GlyR
+alpha
+subunit
+genes
+;
+it
+also
+identified
+a
+novel
+exon
+(
+exon
+0
+)
+that
+encodes
+most
+of
+the
+5
+'-
+untranslated
+portion
+of
+the
+GlyR
+beta
+mRNA
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Therefore
+,
+we
+suggested
+that
+both
+proteins
+might
+belong
+to
+the
+PLTP
+family
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Influence
+of
+compression
+therapy
+on
+symptoms
+following
+soft
+tissue
+injury
+from
+maximal
+eccentric
+exercise
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+STAT5A
+mutations
+in
+the
+Src
+homology
+2
+(
+SH2
+)
+and
+SH3
+domains
+did
+not
+alter
+the
+BTK
+-
+mediated
+tyrosine
+phosphorylation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+present
+work
+,
+the
+complete
+genome
+sequences
+of
+Pyrococcus
+horikoshii
+and
+Pyrococcus
+abyssi
+,
+two
+species
+in
+a
+genus
+of
+hyperthermophilic
+archaeon
+(
+archaebacterium
+),
+were
+compared
+to
+detect
+large
+genome
+polymorphisms
+linked
+with
+restriction
+-
+modification
+gene
+homologs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+addition
+,
+these
+patients
+show
+both
+quantitative
+and
+qualitative
+differences
+in
+their
+infectious
+microbiological
+spectrum
+,
+mainly
+in
+clean
+-
+contaminated
+,
+contaminated
+and
+dirty
+surgical
+procedures
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+show
+that
+PKC
+and
+p44
+/
+p42MAPK
+signalings
+are
+required
+for
+the
+HBx
+-
+induced
+Sp1
+-
+mediated
+IGF
+-
+II
+P4
+transcriptional
+activity
+since
+(
+i
+)
+PKC
+activation
+by
+PMA
+or
+PKC
+expression
+vector
+increases
+Sp1
+phosphorylation
+and
+P4
+activity
+in
+HBx
+-
+transfected
+HepG2
+cells
+;
+(
+ii
+)
+PKC
+inhibition
+by
+PKC
+inhibitor
+Go6976
+reduces
+Sp1
+phosphorylation
+,
+P4
+activity
+,
+and
+IGF
+-
+II
+mRNA
+in
+HBx
+-
+transfected
+HepG2
+cells
+;
+and
+(
+iii
+)
+the
+inhibition
+of
+MEK
+activation
+by
+U0126
+reduces
+Sp1
+phosphorylation
+,
+P4
+activity
+and
+IGF
+-
+II
+mRNA
+in
+HBx
+-
+transfected
+HepG2
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+show
+that
+p73
+can
+transcriptionally
+inhibit
+a
+number
+of
+cellular
+and
+viral
+promoters
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Similarly
+,
+curcumin
+(
+diferuloylmethane
+),
+an
+anti
+-
+inflammatory
+agent
+,
+suppressed
+OSM
+-
+stimulated
+STAT1
+phosphorylation
+,
+DNA
+-
+binding
+activity
+of
+STAT1
+,
+and
+c
+-
+Jun
+N
+-
+terminal
+kinase
+activation
+without
+affecting
+JAK1
+,
+JAK2
+,
+JAK3
+,
+ERK1
+/
+2
+,
+and
+p38
+phosphorylation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+effects
+of
+the
+transfected
+receptors
+were
+associated
+with
+antagonism
+of
+activator
+protein
+1
+(
+AP
+-
+1
+)
+activity
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Furthermore
+,
+the
+soluble
+forms
+of
+ATF6
+and
+the
+G13
+gene
+product
+are
+unable
+to
+bind
+to
+several
+point
+mutants
+of
+the
+cis
+-
+acting
+ER
+stress
+response
+element
+in
+vitro
+that
+hardly
+respond
+to
+ER
+stress
+in
+vivo
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+PURPOSE
+:
+The
+objective
+of
+this
+study
+was
+to
+assess
+first
+embryo
+cleavage
+(
+FEC
+)
+25
+-
+27
+h
+after
+intracytoplasmic
+sperm
+injection
+(
+ICSI
+)
+as
+a
+parameter
+for
+the
+embryo
+selection
+process
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+A
+significant
+correlation
+(
+p
+<
+0
+.
+001
+)
+was
+observed
+for
+mean
+wall
+thickness
+and
+vessel
+wall
+area
+between
+MRI
+and
+histopathology
+(
+r
+=
+0
+.
+87
+and
+r
+=
+0
+.
+85
+,
+respectively
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Molecular
+cloning
+,
+genomic
+mapping
+,
+and
+expression
+of
+two
+secretor
+blood
+group
+alpha
+(
+1
+,
+2
+)
+fucosyltransferase
+genes
+differentially
+regulated
+in
+mouse
+uterine
+epithelium
+and
+gastrointestinal
+tract
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+show
+that
+several
+heme
+-
+responsive
+mechanisms
+combine
+to
+regulate
+DAN
+/
+TIR
+gene
+expression
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+No
+'
+TATA
+'
+motif
+was
+identified
+near
+either
+the
+GABPalpha
+or
+ATPsynCF6
+transcription
+start
+sites
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+results
+indicate
+the
+presence
+of
+TATA
+-
+unified
+transcription
+systems
+in
+contemporary
+eukaryotes
+and
+provide
+insight
+into
+the
+residual
+need
+for
+TBP
+by
+all
+three
+Pols
+in
+other
+eukaryotes
+despite
+a
+lack
+of
+TATA
+elements
+in
+their
+promoters
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Different
+thermoluminescent
+detectors
+(
+TLD
+)
+have
+been
+used
+to
+measure
+the
+contribution
+of
+the
+low
+linear
+energy
+transfer
+component
+(
+LET
+<
+10
+keV
+/
+micrometer
+)
+and
+plastic
+nuclear
+track
+detectors
+(
+PNTD
+)
+for
+the
+high
+linear
+energy
+tranfer
+(
+LET
+)
+component
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+However
+,
+the
+beta5L
+splice
+variant
+was
+found
+only
+in
+the
+retina
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+analysis
+supports
+the
+use
+of
+fluticasone
+propionate
+88
+microg
+twice
+daily
+as
+first
+-
+line
+treatment
+in
+patients
+with
+persistent
+asthma
+previously
+treated
+with
+short
+-
+acting
+beta2
+-
+agonist
+alone
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mice
+are
+phenotypically
+normal
+and
+do
+not
+develop
+spontaneous
+tumors
+at
+an
+early
+age
+,
+in
+contrast
+to
+knock
+-
+out
+(
+p53
+(-/-))
+strains
+with
+a
+defective
+p53
+gene
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Furthermore
+,
+stable
+expression
+of
+a
+constitutively
+active
+form
+of
+chicken
+Notch1
+or
+Notch2
+in
+a
+B
+cell
+line
+results
+in
+a
+down
+-
+regulation
+of
+surface
+IgM
+expression
+,
+which
+is
+accompanied
+by
+the
+reduction
+of
+IgH
+gene
+transcripts
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+On
+Cox
+proportional
+hazards
+regression
+adenocarcinoma
+(
+P
+=
+0
+.
+006
+),
+the
+development
+of
+BPF
+(
+P
+=
+0
+.
+003
+),
+older
+age
+(
+P
+=
+0
+.
+03
+)
+and
+higher
+pathological
+stage
+(
+P
+=
+0
+.
+02
+)
+were
+independent
+adverse
+predictors
+of
+survival
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+found
+that
+RhoA
+can
+initiate
+a
+linear
+kinase
+cascade
+leading
+to
+the
+activation
+of
+ERK6
+(
+p38
+gamma
+),
+a
+recently
+identified
+member
+of
+the
+p38
+family
+of
+MAPKs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Twenty
+-
+six
+(
+55
+%)
+(
+95
+%
+CI
+,
+41
+-
+69
+%)
+patients
+experienced
+>
+or
+=
+grade
+3
+acute
+toxicity
+(
+RTOG
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+hypothesize
+that
+proprioception
+may
+be
+used
+to
+calibrate
+the
+efference
+copy
+during
+development
+and
+in
+response
+to
+perturbations
+by
+signaling
+potential
+mismatches
+between
+eye
+movement
+information
+derived
+from
+the
+efferent
+command
+and
+the
+actual
+motion
+of
+the
+eye
+transduced
+by
+the
+proprioceptive
+organs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Thus
+,
+BALB
+/
+c
+mice
+appear
+to
+be
+the
+most
+appropriate
+strain
+of
+mice
+to
+perform
+studies
+on
+the
+possible
+connection
+between
+infection
+with
+T
+.
+canis
+and
+allergic
+asthma
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+They
+correspond
+to
+nucleotides
+equivalent
+to
+base
+-
+pair
+C1
+-
+G72
+and
+discriminator
+base
+A73
+in
+the
+amino
+acid
+-
+acceptor
+branch
+of
+the
+molecule
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Our
+results
+suggest
+that
+the
+central
+role
+of
+the
+Notch
+-
+CBF1
+/
+RBP
+-
+Jkappa
+signaling
+pathway
+in
+cell
+fate
+decisions
+renders
+it
+susceptible
+to
+pathways
+of
+viral
+replication
+and
+oncogenic
+conversion
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+High
+-
+affinity
+binding
+of
+NF
+-
+1
+to
+PSE
+-
+B
+,
+but
+not
+to
+PSE
+-
+A
+,
+was
+confirmed
+by
+competition
+of
+DNA
+-
+protein
+interactions
+by
+using
+NF
+-
+1
+DNA
+elements
+and
+antibodies
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+first
+case
+of
+HCV
+seroconversion
+in
+Portugal
+after
+the
+introduction
+of
+HCV
+NAT
+screening
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Substitutions
+in
+the
+YFV
+Ag
+-
+binding
+region
+(
+ABR
+)
+occur
+at
+four
+of
+the
+eight
+highly
+conserved
+residues
+that
+are
+essential
+for
+binding
+of
+peptide
+-
+Ag
+in
+the
+class
+Ia
+molecules
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+Novacor
+Left
+Ventricular
+Assist
+System
+(
+LVAS
+)
+(
+Novacor
+Corp
+,
+Oakland
+,
+CA
+)
+was
+initially
+console
+-
+based
+and
+has
+been
+available
+since
+1993
+in
+a
+wearable
+configuration
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Ileal
+digestibilities
+of
+DM
+,
+OM
+,
+CP
+,
+total
+dietary
+fiber
+(
+TDF
+),
+fat
+and
+gross
+energy
+(
+GE
+)
+were
+lower
+(
+P
+<
+0
+.
+05
+)
+for
+dogs
+fed
+diets
+containing
+supplemental
+fiber
+compared
+with
+dogs
+fed
+the
+control
+diet
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+addition
+,
+the
+consensus
+amino
+acid
+motif
+for
+serine
+threonine
+receptor
+kinases
+was
+also
+present
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+,
+we
+show
+that
+the
+phorbol
+ester
+PMA
+decreases
+both
+basal
+and
+dexamethasone
+/
+cAMP
+-
+induced
+expression
+of
+a
+luciferase
+gene
+under
+the
+control
+of
+the
+G6Pase
+promoter
+in
+transiently
+transfected
+H4IIE
+hepatoma
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+difference
+between
+the
+patients
+and
+the
+controls
+was
+statistically
+significant
+(
+p
+=
+0
+.
+03
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Altogether
+,
+we
+confirm
+that
+all
+genes
+of
+the
+Rad52
+recombinational
+repair
+pathway
+are
+required
+for
+the
+survival
+of
+rad27
+Delta
+strains
+at
+both
+permissive
+(
+23
+degrees
+C
+)
+and
+semipermissive
+(
+30
+degrees
+C
+)
+temperatures
+for
+growth
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Neuron
+-
+specific
+Bcl
+-
+2
+homology
+3
+domain
+-
+only
+splice
+variant
+of
+Bak
+is
+anti
+-
+apoptotic
+in
+neurons
+,
+but
+pro
+-
+apoptotic
+in
+non
+-
+neuronal
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mechanism
+of
+the
+induction
+of
+3beta
+-
+HSD
+type
+1
+gene
+expression
+was
+further
+characterized
+in
+ZR
+-
+75
+-
+1
+human
+breast
+cancer
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Contagious
+bovine
+pleuropneumonia
+is
+a
+major
+threat
+for
+cattle
+in
+Africa
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Treatment
+includes
+both
+medical
+and
+surgical
+options
+,
+with
+medical
+therapy
+further
+subclassified
+into
+pharmacologic
+and
+pneumatic
+dilation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Since
+the
+latter
+is
+very
+small
+for
+physiological
+flows
+,
+the
+result
+is
+that
+alpha
+<
+1
+even
+at
+relatively
+high
+values
+of
+the
+Reynolds
+number
+(
+i
+.
+e
+.,
+for
+non
+-
+negligible
+inertia
+)
+and
+we
+validate
+our
+perturbation
+theory
+results
+by
+comparison
+with
+a
+numerical
+integration
+of
+the
+full
+model
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+plus
+the
+reduced
+phosphorylation
+of
+p27
+by
+MAPK
+enhanced
+the
+stability
+of
+p27
+that
+associated
+with
+nuclear
+Cdk2
+at
+high
+stoichiometry
+and
+inhibited
+its
+kinase
+activity
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Similar
+data
+were
+also
+obtained
+when
+either
+dominant
+negative
+EGFR
+-
+CD533
+or
+dominant
+negative
+Ras
+N17
+were
+used
+to
+block
+MAPK
+activation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+assay
+herein
+described
+allows
+the
+comparison
+of
+relative
+FGFR
+expression
+levels
+,
+both
+within
+a
+single
+RNA
+pool
+and
+among
+multiple
+RNA
+pool
+samples
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+was
+most
+pronounced
+during
+the
+initial
+phase
+of
+Erk
+activation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+DESIGN
+:
+Prospective
+cohort
+study
+with
+a
+20
+y
+follow
+-
+up
+period
+,
+the
+First
+National
+Health
+and
+Examination
+Survey
+(
+NHANES
+1
+)
+Epidemiologic
+Follow
+-
+up
+Study
+(
+NHEFS
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+assess
+the
+maximum
+oxygen
+uptake
+(
+V
+'
+O2
+max
+)
+of
+Hong
+Kong
+Chinese
+children
+and
+to
+explore
+its
+association
+with
+respiratory
+illnesses
+,
+we
+conducted
+the
+Multistage
+Fitness
+Test
+(
+MFT
+),
+a
+20
+-
+m
+shuttle
+run
+test
+,
+in
+1
+,
+427
+schoolchildren
+aged
+between
+8
+-
+12
+years
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+After
+all
+doses
+of
+d
+-
+amphetamine
+,
+responding
+occurred
+largely
+on
+the
+saline
+key
+under
+both
+schedules
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+novel
+myeloid
+-
+restricted
+zebrafish
+CCAAT
+/
+enhancer
+-
+binding
+protein
+with
+a
+potent
+transcriptional
+activation
+domain
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+METHODS
+:
+Humphrey
+Field
+Analyzer
+model
+630
+(
+HFA
+I
+,
+program
+30
+-
+2
+with
+a
+rectangular
+6
+degrees
+x
+6
+degrees
+grid
+)
+was
+used
+as
+the
+conventional
+perimetric
+method
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+data
+reveal
+a
+complex
+network
+of
+interactions
+between
+GTPases
+in
+the
+ARF
+family
+and
+their
+effectors
+and
+reveal
+a
+potential
+for
+cross
+-
+talk
+not
+demonstrated
+previously
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Net
+lift
+and
+combined
+drag
+from
+all
+8
+bearings
+of
+the
+4
+-
+bladed
+impeller
+are
+compared
+with
+predictions
+based
+on
+2
+-
+D
+theory
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+course
+of
+screening
+for
+transcription
+factors
+which
+interact
+with
+the
+human
+myeloperoxidase
+(
+MPO
+)
+promoter
+we
+,
+for
+the
+first
+time
+,
+identified
+and
+cloned
+the
+cDNA
+and
+genomic
+DNA
+for
+human
+HBP1
+(
+HMG
+-
+Box
+containing
+protein
+1
+),
+a
+member
+of
+the
+high
+mobility
+group
+of
+non
+-
+histone
+chromosomal
+proteins
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Therefore
+,
+vitamin
+D3
+analogues
+have
+a
+substantial
+antipsoriatic
+effect
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Methylation
+at
+both
+cytosine
+residues
+in
+the
+E2F
+element
+((
+m
+)
+CG
+(
+m
+)
+CG
+)
+generated
+a
+new
+methylcytosine
+-
+specific
+DNA
+-
+protein
+complex
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hepatitis
+A
+infected
+food
+handler
+at
+an
+Edmonton
+,
+Alberta
+retail
+food
+facility
+:
+public
+health
+protection
+strategies
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+co
+-
+existence
+of
+TE
+domains
+within
+modular
+PKSs
+along
+with
+physically
+separated
+,
+monofunctional
+TEs
+(
+TE
+IIs
+)
+has
+been
+reported
+for
+a
+number
+of
+modular
+polyketide
+and
+non
+-
+ribosomal
+peptide
+synthases
+(
+NRPS
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Two
+independent
+transgenic
+lines
+were
+produced
+,
+and
+both
+showed
+expression
+of
+the
+Gus
+gene
+specifically
+in
+the
+endosperm
+during
+mid
+-
+development
+(
+first
+detected
+10
+-
+12
+d
+after
+anthesis
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Treadmill
+training
+at
+least
+for
+2
+weeks
+can
+reduce
+the
+infarction
+size
+and
+edema
+caused
+by
+MCA
+occlusion
+(
+P
+<
+0
+.
+01
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Mechanism
+in
+the
+sequential
+control
+of
+cell
+morphology
+and
+S
+phase
+entry
+by
+epidermal
+growth
+factor
+involves
+distinct
+MEK
+/
+ERK
+activations
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+randomly
+assigned
+1
+,
+219
+subjects
+to
+receive
+either
+the
+standard
+three
+-
+times
+-
+weekly
+(
+TIW
+)
+interferon
+alfa
+-
+2b
+dose
+(
+3
+MIU
+)
+or
+the
+once
+-
+weekly
+(
+QW
+)
+peginterferon
+alfa
+-
+2b
+(
+0
+.
+5
+,
+1
+.
+0
+,
+or
+1
+.
+5
+microg
+/
+kg
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+data
+suggest
+that
+proper
+direct
+binding
+of
+Nhp2p
+to
+H
+/
+ACA
+snoRNAs
+is
+required
+for
+the
+assembly
+of
+H
+/
+ACA
+snoRNPs
+and
+hence
+for
+the
+stability
+of
+some
+of
+their
+components
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+decrements
+in
+cerebrovascular
+resistance
+induced
+by
+hexamethonium
+,
+in
+mm
+Hg
+ml
+(-
+1
+).
+min
+(-
+1
+),
+were
+:
+under
+control
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+provide
+the
+first
+evidence
+for
+the
+involvement
+of
+GCN1
+-
+GCN2
+interaction
+in
+activation
+of
+GCN2
+per
+se
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+As
+a
+reflection
+of
+uncertainties
+in
+the
+estimates
+for
+individual
+sources
+,
+the
+90th
+percentiles
+of
+PCDD
+/
+F
+releases
+for
+1999
+ranged
+up
+to
+4
+.
+1
+g
+I
+-
+TEQ
+/
+y
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+test
+the
+hypothesis
+that
+these
+elements
+are
+required
+for
+promoter
+activity
+,
+we
+compared
+the
+reporter
+expression
+activity
+of
+segments
+containing
+mutations
+of
+these
+elements
+with
+activity
+of
+the
+parent
+Hlx
+promoter
+sequence
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Using
+RACE
+techniques
+we
+have
+cloned
+and
+sequenced
+one
+of
+the
+hamster
+liver
+3
+-
+hydroxy
+-
+hexobarbital
+dehydrogenases
+which
+catalyze
+not
+only
+cyclic
+alcohols
+but
+also
+17beta
+-
+hydroxy
+-
+steroids
+and
+3alpha
+-
+hydroxysteroids
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Concerted
+transcriptional
+activation
+of
+the
+low
+density
+lipoprotein
+receptor
+gene
+by
+insulin
+and
+luteinizing
+hormone
+in
+cultured
+porcine
+granulosa
+-
+luteal
+cells
+:
+possible
+convergence
+of
+protein
+kinase
+a
+,
+phosphatidylinositol
+3
+-
+kinase
+,
+and
+mitogen
+-
+activated
+protein
+kinase
+signaling
+pathways
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Human
+T
+-
+cell
+leukemia
+virus
+type
+I
+(
+HTLV
+-
+I
+)
+Tax
+is
+a
+potent
+transcriptional
+regulator
+that
+can
+activate
+or
+repress
+specific
+cellular
+genes
+and
+that
+has
+been
+proposed
+to
+contribute
+to
+leukemogenesis
+in
+adult
+T
+-
+cell
+leukemia
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Also
+,
+small
+,
+sense
+and
+antisense
+approximately
+22
+nt
+RNAs
+,
+derived
+from
+the
+satRNA
+,
+were
+associated
+with
+the
+replicating
+satellite
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Deletional
+analyses
+of
+VDR
+indicated
+that
+GRIP1
+and
+RAC3
+required
+an
+intact
+VDR
+activation
+function
+(
+AF
+-
+2
+)
+domain
+for
+efficient
+interaction
+as
+well
+as
+additional
+but
+distinct
+regions
+of
+the
+VDR
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+During
+the
+stabilization
+period
+,
+PaCO2
+(
+mean
++/-
+SD
+)
+was
+33
++/-
+5
+mm
+Hg
+,
+and
+arrhythmias
+were
+not
+detected
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+TT
+cells
+,
+a
+human
+MTC
+cell
+line
+expressing
+MEN
+2A
+type
+RET
+,
+display
+transcriptionally
+active
+RelA
+(
+p65
+)
+in
+the
+nucleus
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+human
+protein
+sequence
+exhibits
+a
+putative
+DNA
+-
+binding
+domain
+similar
+to
+that
+seen
+in
+rat
+HBP1
+and
+shows
+homology
+with
+the
+activation
+and
+repressor
+domains
+previously
+demonstrated
+in
+the
+rat
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+contrast
+the
+human
+and
+mouse
+BCNT
+proteins
+contain
+one
+repeat
+unit
+and
+lack
+the
+RTE
+-
+1
+-
+derived
+portion
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Direct
+superoxide
+scavenging
+activity
+of
+nonsteroidal
+anti
+-
+inflammatory
+drugs
+:
+determination
+by
+electron
+spin
+resonance
+using
+the
+spin
+trap
+method
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+single
+nucleotide
+polymorphism
+(
+SNP
+)
+in
+exon
+2
+,
+which
+is
+tightly
+liked
+to
+another
+SNP
+(
+GTG83
+/
+ATG83
+),
+creates
+an
+additional
+alternative
+in
+-
+frame
+AUG
+in
+B
+-
+type
+MTH1
+mRNAs
+yielding
+the
+fourth
+MTH1
+polypeptide
+,
+p26
+that
+possesses
+an
+additional
+mitochondrial
+targeting
+signal
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Six
+of
+the
+gstC
+'
+mutants
+,
+primarily
+in
+the
+C
+-
+terminal
+half
+of
+C
+',
+exhibited
+a
+defect
+in
+the
+ability
+to
+bind
+L
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+developed
+a
+system
+for
+domain
+shuffling
+to
+establish
+the
+function
+of
+C1
+domains
+from
+human
+Raf
+kinase
+and
+rat
+PKC
+eta
+in
+yeast
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Expression
+of
+herpes
+simplex
+virus
+type
+2
+US3
+affects
+the
+Cdc42
+/
+Rac
+pathway
+and
+attenuates
+c
+-
+Jun
+N
+-
+terminal
+kinase
+activation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Inhibition
+of
+constitutive
+NF
+-
+kappaB
+activity
+results
+in
+cell
+death
+of
+TT
+cells
+and
+blocks
+focus
+formation
+induced
+by
+oncogenic
+forms
+of
+RET
+in
+NIH
+3T3
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Corneal
+scrapping
+and
+deep
+stromal
+biopsy
+were
+obtained
+and
+stained
+for
+microscopic
+evaluation
+with
+periodic
+acid
+-
+Schiff
+,
+Giemsa
+,
+and
+Gomori
+'
+s
+methenamine
+silver
+stains
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+ICAM
+-
+1
+has
+been
+suggested
+a
+predictor
+of
+the
+onset
+of
+GO
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Once
+ICP
+reaches
+critical
+values
+(>
+30
+mm
+Hg
+)
+herniation
+occurs
+,
+usually
+within
+2
+to
+5
+days
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+present
+data
+also
+demonstrate
+that
+ectopic
+expression
+of
+blr1
+increased
+JNK
+/
+SAPK
+activity
+,
+but
+JNK
+/
+SAPK
+activation
+was
+not
+needed
+for
+accelerated
+RA
+-
+induced
+differentiation
+and
+growth
+arrest
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+,
+we
+identify
+Rsc3
+and
+Rsc30
+as
+novel
+components
+of
+the
+essential
+yeast
+remodeler
+RSC
+complex
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+pharmacokinetic
+profiles
+of
+digoxin
+and
+warfarin
+were
+not
+altered
+by
+the
+simultaneous
+and
+continued
+administration
+of
+sevelamer
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Forskolin
+treatment
+(
+10
+microM
+)
+of
+the
+transfected
+cells
+for
+3
+--
+6
+h
+maximally
+induced
+luciferase
+threefold
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+E2F1
+-
+mediated
+transcriptional
+inhibition
+of
+the
+plasminogen
+activator
+inhibitor
+type
+1
+gene
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+this
+report
+this
+technique
+was
+applied
+to
+human
+breast
+carcinoma
+MDA
+-
+MB231
+cells
+overexpressing
+human
+MPG
+in
+order
+to
+assess
+whether
+up
+-
+regulation
+of
+the
+initial
+step
+in
+BER
+alters
+the
+activity
+of
+selected
+other
+BER
+(
+hOGG1
+and
+APE
+/
+ref
+-
+1
+)
+or
+direct
+reversal
+(
+MGMT
+)
+repair
+activities
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Chlamydia
+and
+cervical
+cancer
+:
+a
+real
+association
+?
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+children
+unable
+to
+perform
+forced
+expiratory
+maneuvers
+(
+n
+=
+25
+),
+FOT
+,
+contrary
+to
+the
+interrupter
+technique
+,
+clearly
+identified
+a
+subgroup
+of
+young
+children
+with
+high
+resistance
+values
+at
+baseline
+,
+which
+returned
+to
+normal
+after
+bronchodilation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Together
+,
+these
+results
+identify
+HPK1
+as
+a
+new
+component
+of
+TCR
+signaling
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Pro
+-
+inflammatory
+cytokine
+,
+tumor
+necrosis
+factor
+-
+alpha
+(
+TNF
+-
+alpha
+),
+produced
+from
+adipose
+tissues
+in
+obese
+subjects
+,
+is
+known
+to
+play
+a
+predominant
+role
+in
+inducing
+insulin
+resistance
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+Schistosoma
+mansoni
+homologue
+(
+SmSmad2
+)
+was
+overexpressed
+in
+bacteria
+as
+a
+Sj26
+-
+GST
+fusion
+protein
+and
+used
+to
+raise
+specific
+antibodies
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+study
+the
+in
+vivo
+role
+of
+p16
+.
+7
+,
+a
+phi29
+mutant
+containing
+a
+suppressible
+mutation
+in
+gene
+16
+.
+7
+was
+constructed
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+differences
+in
+the
+CPIgG
+,
+CRP
+,
+and
+fibrinogen
+levels
+in
+patients
+who
+were
+diagnosed
+with
+ACS
+versus
+those
+who
+were
+not
+(
+non
+-
+ACS
+)
+were
+evaluated
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+There
+are
+many
+different
+proposals
+for
+the
+statistical
+analysis
+of
+data
+to
+determine
+early
+onset
+of
+action
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Coexpression
+of
+the
+p120
+(
+ctn
+)
+protein
+with
+an
+N
+-
+terminal
+deletion
+,
+which
+eliminates
+some
+potential
+tyrosine
+phosphorylation
+sites
+,
+or
+the
+protein
+with
+a
+single
+amino
+acid
+substitution
+(
+tyrosine
+at
+217
+to
+phenylalanine
+)
+resulted
+in
+an
+increase
+in
+the
+aggregation
+of
+v
+-
+Src
+-
+transformed
+EL
+and
+EalphaCL
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+find
+that
+our
+response
+function
+is
+well
+approximated
+by
+the
+GSER
+only
+within
+a
+particular
+frequency
+range
+determined
+by
+the
+material
+parameters
+of
+both
+the
+bead
+and
+the
+network
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+novel
+approach
+to
+insulin
+administration
+known
+as
+chronic
+intermittent
+intravenous
+insulin
+therapy
+(
+CIIIT
+)
+delivers
+insulin
+in
+a
+pulsatile
+fashion
+and
+achieves
+physiological
+insulin
+concentration
+in
+the
+portal
+vein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+article
+comparatively
+evaluates
+five
+Generic
+Systems
+that
+describe
+the
+basic
+alternatives
+to
+composting
+facility
+design
+and
+control
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+With
+a
+GC
+content
+of
+45
+%
+the
+one
+segment
+would
+correspond
+to
+"
+isochore
+H1
+"
+and
+the
+other
+segment
+(
+39
+%
+GC
+in
+human
+,
+40
+%
+GC
+in
+mouse
+)
+to
+"
+isochore
+L1
+/
+L2
+".
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+review
+of
+the
+literature
+identified
+8
+comprehensive
+clinical
+studies
+,
+all
+of
+which
+failed
+to
+document
+any
+relationship
+between
+NF1
+and
+intracranial
+aneurysms
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Serial
+US
+images
+were
+obtained
+before
+and
+20
+,
+30
+,
+40
+,
+50
+,
+60
+,
+90
+,
+120
+,
+150
+,
+180
+,
+240
+,
+and
+300
+s
+after
+intravenous
+injection
+of
+2
+g
+of
+contrast
+agent
+using
+conventional
+and
+harmonic
+PD
+US
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Eight
+CAD
+patients
+who
+were
+matched
+to
+the
+treated
+patients
+for
+age
+(+/-
+3
+years
+),
+baseline
+low
+density
+lipoprotein
+(+/-
+5
+mg
+/
+dL
+),
+and
+triglycerides
+(+/-
+50
+mg
+/
+dL
+)
+but
+who
+had
+never
+been
+treated
+with
+lipid
+-
+lowering
+drugs
+were
+selected
+as
+controls
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+present
+evidence
+that
+the
+distal
+half
+(
+Stem
+2
+)
+of
+the
+conserved
+base
+-
+paired
+stem
+structure
+found
+in
+all
+hY
+RNAs
+also
+plays
+a
+critical
+role
+in
+the
+export
+process
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+contrasting
+effects
+of
+dopaminergic
+stimulation
+on
+the
+motor
+performance
+and
+on
+some
+aspects
+of
+cognitive
+processing
+suggest
+the
+existence
+of
+complex
+interactions
+within
+pre
+-
+and
+postsynaptic
+brain
+dopamine
+receptors
+,
+and
+an
+intervention
+of
+segregated
+basal
+ganglia
+-
+prefrontal
+cortex
+loops
+in
+motor
+and
+cognitive
+behaviour
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+size
+of
+the
+infarct
+was
+determined
+using
+the
+creatine
+kinase
+integral
+method
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+corrections
+do
+not
+involve
+sequences
+predicted
+to
+function
+as
+transcription
+factor
+binding
+sites
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+comprehensive
+neuropsychological
+battery
+was
+administered
+to
+48
+veterans
+with
+Gulf
+War
+Illness
+(
+GWI
+)
+characterized
+by
+severe
+fatigue
+(
+GV
+-
+F
+)
+and
+39
+healthy
+veterans
+(
+GV
+-
+H
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Quantitative
+PCR
+studies
+indicated
+that
+synthesis
+and
+transport
+of
+vector
+DNA
+into
+the
+nucleus
+were
+similar
+for
+macrophages
+infected
+with
+the
+clone
+239
+and
+316
+pseudotypes
+,
+suggesting
+that
+the
+restriction
+for
+SIVmac239
+infection
+is
+after
+reverse
+transcription
+and
+nuclear
+import
+of
+viral
+DNA
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+EXAFS
+measurements
+around
+the
+Ge
+-
+K
+edge
+have
+been
+carried
+out
+for
+liquid
+Ge
+-
+Si
+alloys
+for
+the
+first
+time
+to
+investigate
+the
+local
+structure
+around
+a
+Ge
+atom
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hp
+positive
+relatives
+of
+gastric
+cancer
+had
+a
+markedly
+higher
+prevalence
+of
+atrophy
+than
+those
+with
+Hp
+negativity
+without
+cancer
+relatives
+(
+29
+vs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Thus
+,
+replication
+fork
+movement
+near
+HML
+pauses
+at
+a
+silent
+origin
+which
+is
+competent
+for
+replication
+initiation
+but
+kept
+silent
+through
+Orc2p
+,
+a
+component
+of
+the
+replication
+initiator
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cardiac
+markers
+troponin
+T
+,
+CK
+-
+MB
+mass
+and
+myoglobin
+were
+helpful
+in
+the
+differential
+diagnosis
+of
+chest
+pain
+,
+even
+when
+the
+ECG
+was
+unremarkable
+or
+nonspecific
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+A
+novel
+gene
+was
+cloned
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Both
+pancreatic
+and
+intestinal
+cell
+lines
+were
+found
+to
+express
+a
+number
+of
+POU
+(
+OCT
+binding
+)
+homeodomain
+proteins
+examined
+by
+electrophoretic
+mobility
+shift
+assay
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+conclusion
+,
+USPIO
+-
+enhanced
+MRI
+data
+were
+capable
+to
+characterize
+tumor
+microvessel
+properties
+in
+this
+breast
+cancer
+model
+:
+microvascular
+permeability
+(
+determined
+using
+USPIO
+)
+correlated
+significantly
+with
+tumor
+grade
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Radiolabeled
+biantennary
+N
+-
+glycans
+synthesized
+by
+Pro
+(-)
+5Lec20
+were
+proportionately
+less
+ricin
+-
+bound
+than
+similar
+species
+from
+parental
+CHO
+cells
+,
+and
+Lec20
+cell
+extracts
+had
+a
+markedly
+reduced
+ability
+to
+transfer
+Gal
+to
+GlcNAc
+-
+terminating
+acceptors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+CONCLUSION
+:
+The
+training
+of
+novices
+using
+MIST
+-
+VR
+yields
+quantifiable
+changes
+in
+skill
+that
+are
+transferable
+to
+a
+simple
+real
+task
+and
+are
+similar
+to
+the
+results
+achieved
+with
+conventional
+training
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+investigate
+the
+convergent
+role
+of
+the
+insulin
+/
+IGF
+-
+I
+effector
+pathway
+mediating
+bihormonal
+stimulation
+of
+LDL
+receptor
+promoter
+expression
+,
+transfected
+granulosa
+-
+luteal
+cells
+were
+pretreated
+for
+30
+min
+with
+two
+specific
+inhibitors
+of
+phophatidylinositol
+3
+-
+kinase
+,
+wortmannin
+(
+100
+nM
+)
+and
+LY
+294002
+(
+10
+microM
+),
+or
+of
+mitogen
+-
+activated
+protein
+kinase
+kinase
+,
+PD
+98059
+(
+50
+microM
+),
+U0126
+(
+10
+microM
+),
+or
+the
+latter
+'
+s
+inactive
+derivative
+,
+U0124
+(
+10
+microM
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Instead
+,
+affective
+flattening
+was
+associated
+with
+both
+dopamine
+receptor
+sensitivity
+and
+psychomotor
+slowing
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Other
+therapies
+are
+also
+available
+,
+including
+hypertonic
+saline
+solution
+,
+THAM
+(
+Tris
+-
+hydroxy
+-
+methyl
+-
+aminomethane
+)
+buffer
+,
+and
+high
+-
+dose
+barbiturates
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+CONCLUSION
+:
+There
+are
+no
+differences
+in
+the
+measurement
+data
+derived
+from
+this
+method
+and
+actual
+measurement
+data
+from
+an
+object
+created
+by
+the
+computer
+-
+aided
+dental
+design
+program
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+NF
+-
+kappaB
+pathway
+activation
+occurs
+during
+transformation
+induced
+by
+a
+number
+of
+classical
+oncogenes
+,
+including
+Bcr
+/
+Abl
+,
+Ras
+and
+Rac
+,
+and
+is
+necessary
+for
+full
+transforming
+potential
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Our
+results
+indicate
+that
+Gab1
+is
+involved
+in
+the
+control
+of
+egr
+-
+1
+expression
+regulated
+by
+insulin
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+human
+cytomegalovirus
+(
+HCMV
+)
+major
+immediate
+-
+early
+protein
+IE2
+is
+a
+nuclear
+phosphoprotein
+that
+is
+believed
+to
+be
+a
+key
+regulator
+in
+both
+lytic
+and
+latent
+infections
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Unexpectedly
+,
+Arg1
+-
+expressing
+COS1
+cells
+showed
+no
+significant
+proteinase
+activity
+to
+various
+synthesized
+substrates
+under
+neutral
+or
+acidic
+conditions
+in
+this
+study
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+METHODS
+:
+126
+patients
+with
+histologically
+confirmed
+MFH
+were
+analyzed
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Regression
+analyses
+showed
+that
+SOREMP
+dream
+occurrences
+were
+significantly
+related
+to
+the
+amount
+of
+REM
+sleep
+,
+while
+NREMP
+dream
+occurrences
+were
+related
+to
+arousals
+from
+NREM
+sleep
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+[
+Diabetologia
+(
+2001
+)
+44
+[
+Suppl
+3
+]:
+B37
+-
+B44
+]
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+In
+vivo
+,
+there
+was
+a
+wide
+distribution
+with
+the
+coefficient
+of
+variation
+(
+SD
+/
+mean
+x
+100
+%)
+for
+different
+valve
+sizes
+ranging
+from
+21
+%
+to
+39
+%
+in
+the
+St
+Jude
+Medical
+valve
+and
+from
+25
+%
+to
+33
+%
+in
+the
+Omnicarbon
+valve
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+microsporidian
+,
+Nosema
+algerae
+Vavra
+and
+undeen
+,
+was
+found
+parasitizing
+larvae
+and
+adults
+of
+a
+laboratory
+colony
+of
+Culex
+pipiens
+L
+.
+originated
+from
+Gharbia
+Governorate
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Nearly
+all
+isolates
+of
+S
+.
+intermedius
+and
+most
+isolates
+of
+S
+.
+constellatus
+,
+but
+only
+19
+%
+of
+those
+of
+S
+.
+anginosus
+,
+were
+associated
+with
+abscess
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+One
+of
+the
+conserved
+RNA
+subdomains
+,
+designated
+P3
+,
+has
+previously
+been
+shown
+to
+be
+required
+for
+nucleolar
+localization
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+total
+of
+25
+patients
+with
+malignant
+brain
+tumours
+were
+investigated
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Interventions
+aimed
+at
+these
+specific
+mediators
+and
+processes
+may
+be
+successful
+in
+reducing
+the
+very
+significant
+human
+and
+economic
+costs
+of
+vascular
+access
+dysfunction
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+used
+stored
+plasma
+samples
+from
+409
+patients
+in
+the
+National
+Institute
+of
+Neurological
+Diseases
+and
+Stroke
+(
+NINDS
+)
+tissue
+plasminogen
+activator
+(
+t
+-
+PA
+)
+Stroke
+Trial
+to
+examine
+the
+relationship
+between
+an
+apolipoprotein
+(
+Apo
+)
+E2
+or
+an
+Apo
+E4
+phenotype
+and
+a
+favorable
+outcome
+3
+months
+after
+stroke
+,
+the
+risk
+of
+intracerebral
+hemorrhage
+,
+and
+the
+response
+to
+intravenous
+t
+-
+PA
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+results
+were
+robust
+to
+changes
+in
+the
+baseline
+assumptions
+of
+the
+model
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cis
+-
+acting
+CCAAT
+elements
+are
+frequently
+found
+in
+eukaryotic
+promoter
+regions
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+binary
+and
+tertiary
+combinations
+of
+plant
+-
+derived
+molluscicides
+Azadirachta
+indica
+and
+Cedrus
+deodara
+oil
+with
+synergists
+MGK
+-
+264
+,
+piperonyl
+butoxide
+(
+PB
+)
+and
+fruit
+powder
+of
+Embelia
+ribes
+were
+used
+against
+the
+Lymnaea
+acuminata
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+article
+reports
+the
+design
+and
+development
+of
+an
+ECG
+simulator
+intended
+for
+use
+in
+the
+testing
+,
+calibration
+and
+maintenance
+of
+electrocardiographic
+equipment
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Exchanging
+the
+human
+propeptide
+in
+this
+chimera
+with
+either
+the
+murine
+MIC
+-
+1
+or
+TGF
+-
+beta1
+propeptide
+resulted
+in
+secretion
+of
+the
+unprocessed
+,
+monomeric
+chimera
+,
+suggesting
+a
+specific
+interaction
+between
+the
+human
+MIC
+-
+1
+propeptide
+and
+mature
+peptide
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+The
+analyzed
+fragment
+has
+significant
+activity
+in
+EpCAM
+positive
+cells
+,
+and
+it
+is
+regulated
+negatively
+by
+tumor
+necrosis
+factor
+alpha
+(
+TNFalpha
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mutant
+receptors
+,
+as
+well
+as
+sBMPR
+-
+IA
+,
+were
+expressed
+as
+fusion
+proteins
+with
+thioredoxin
+in
+Escherichia
+coli
+,
+and
+purified
+using
+reverse
+phase
+high
+performance
+liquid
+chromatography
+(
+RP
+-
+HPLC
+)
+after
+digestion
+with
+enterokinase
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+dual
+specificity
+kinases
+mitogen
+-
+activated
+protein
+kinase
+(
+MAPK
+)
+kinase
+(
+MKK
+)
+7
+and
+MKK4
+are
+the
+only
+molecules
+known
+to
+directly
+activate
+the
+stress
+kinases
+stress
+-
+activated
+protein
+kinases
+(
+SAPKs
+)/
+c
+-
+Jun
+N
+-
+terminal
+kinases
+(
+JNKs
+)
+in
+response
+to
+environmental
+or
+mitogenic
+stimuli
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+unique
+work
+needs
+to
+be
+edited
+critically
+and
+afterwards
+translated
+into
+Urdu
+and
+other
+languages
+for
+the
+benefit
+of
+the
+present
+day
+students
+and
+scholars
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RANTES
+(
+regulated
+upon
+activation
+,
+normally
+T
+-
+cell
+expressed
+and
+presumably
+secreted
+)
+is
+a
+CC
+chemokine
+which
+recruits
+and
+activates
+monocytes
+,
+lymphocytes
+,
+and
+eosinophils
+,
+all
+cell
+types
+present
+in
+the
+lung
+inflammatory
+infiltrate
+induced
+by
+RSV
+infection
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Gabapentin
+for
+opiod
+-
+related
+myoclonus
+in
+cancer
+patients
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Recently
+,
+it
+was
+shown
+that
+purified
+RAG1
+/
+2
+proteins
+can
+cleave
+DNA
+hairpins
+in
+vitro
+,
+but
+the
+same
+activity
+was
+also
+described
+for
+a
+protein
+complex
+of
+the
+DNA
+repair
+proteins
+Nbs1
+/
+Mre11
+/
+Rad50
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+APC
+-
+resistance
+was
+determined
+with
+a
+functional
+method
+with
+high
+sensitivity
+and
+specificity
+for
+the
+factor
+V
+Leiden
+mutation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+picture
+is
+emerging
+showing
+a
+gradient
+of
+function
+among
+p53
+,
+p73
+,
+p63
+ranging
+from
+tumor
+suppression
+to
+development
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+High
+plasma
+AVP
+levels
+observed
+in
+the
+two
+cases
+suggest
+that
+SSRIs
+stimulate
+AVP
+secretion
+,
+thereby
+causing
+SIADH
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Mutation
+of
+the
+octamer
+element
+also
+significantly
+reduced
+the
+ability
+of
+HDAC1
+to
+confer
+repression
+of
+inducible
+HLA
+-
+DRA
+promoter
+activation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Requirements
+for
+the
+nuclear
+-
+cytoplasmic
+translocation
+of
+infected
+-
+cell
+protein
+0
+of
+herpes
+simplex
+virus
+1
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+system
+,
+designed
+to
+exploit
+the
+relatively
+constant
+small
+intestine
+transit
+time
+,
+consists
+of
+a
+drug
+-
+containing
+core
+coated
+with
+a
+polymeric
+matrix
+formed
+by
+a
+channeling
+agent
+(
+NaCl
+,
+mannitol
+,
+and
+Emdex
+)
+and
+an
+inert
+polymer
+(
+Eudragit
+RS100
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+activity
+of
+Rac1
+leads
+to
+STAT3
+translocation
+to
+the
+nucleus
+coincident
+with
+STAT3
+-
+dependent
+gene
+expression
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Treatment
+of
+ischemic
+heart
+disease
+in
+the
+elderly
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+avoid
+misinterpretations
+,
+special
+reference
+values
+should
+be
+applied
+for
+preadolescents
+,
+at
+least
+with
+regard
+to
+FVC
+and
+FEV1
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+STUDY
+OBJECTIVE
+:
+This
+study
+assessed
+several
+methodological
+aspects
+related
+to
+the
+quality
+of
+published
+controlled
+clinical
+trials
+(
+CCTs
+)
+in
+relation
+to
+the
+participation
+of
+an
+epidemiologist
+/
+biostatistician
+(
+E
+/
+B
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+the
+best
+of
+our
+knowledge
+,
+SNTCS
+is
+highly
+malignant
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Northern
+blot
+analysis
+with
+one
+of
+the
+PARNAs
+revealed
+a
+highly
+abundant
+signal
+of
+approximately
+2
+.
+0
+kilobases
+(
+kb
+)
+present
+in
+all
+cell
+lines
+tested
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+effect
+of
+crude
+oil
+spillage
+on
+growth
+,
+productivity
+and
+nutrient
+uptake
+of
+maize
+(
+Zea
+mays
+L
+.)
+was
+assessed
+in
+a
+pot
+experiment
+using
+an
+Evwreni
+manifold
+sample
+of
+a
+petroleum
+development
+company
+,
+which
+had
+a
+specific
+gravity
+of
+0
+.
+8778
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+10
+.
+0
++/-
+2
+.
+0
+pmol
+/
+24
+h
+,
+P
+<
+0
+.
+01
+)
+and
+remained
+elevated
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Pitx2
+rescues
+the
+GABAergic
+differentiation
+defect
+and
+partially
+rescues
+the
+axon
+guidance
+and
+behavioral
+phenotypes
+of
+unc
+-
+30
+mutants
+,
+indicating
+a
+high
+degree
+of
+functional
+conservation
+between
+these
+evolutionarily
+related
+genes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Phosphatidylinositol
+3
+-
+kinase
+potentiates
+,
+but
+does
+not
+trigger
+,
+T
+cell
+proliferation
+mediated
+by
+the
+IL
+-
+2
+receptor
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+addition
+,
+stonin
+2
+binds
+to
+the
+C2B
+domains
+of
+synaptotagmins
+I
+and
+II
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sequence
+comparison
+and
+binding
+studies
+of
+the
+18
+-
+bp
+MOK2
+-
+binding
+sites
+present
+in
+intron
+2
+of
+human
+,
+bovine
+,
+and
+mouse
+IRBP
+genes
+show
+that
+the
+3
+'-
+half
+sequence
+is
+the
+essential
+core
+element
+for
+MOK2
+binding
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Measurements
+were
+obtained
+:
+(
+i
+)
+just
+after
+the
+traumatic
+exposure
+(
+D0
+);
+(
+ii
+)
+3
+days
+after
+this
+first
+measurement
+(
+D3
+);
+and
+(
+iii
+)
+30
+days
+after
+(
+D30
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Long
+-
+term
+results
+with
+MACOP
+-
+B
+and
+radiation
+therapy
+for
+aggressive
+lymphomas
+]
+BACKGROUND
+:
+Long
+-
+term
+results
+are
+needed
+to
+evaluate
+chemotherapy
+regimens
+and
+prognostic
+factors
+in
+non
+-
+Hodgkin
+'
+s
+lymphomas
+(
+NHL
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+From
+the
+above
+results
+,
+we
+might
+infer
+that
+the
+seizure
+type
+of
+TLE
+and
+a
+high
+frequency
+of
+seizure
+are
+two
+major
+independent
+precipitate
+factors
+for
+abnormal
+latencies
+of
+P300
+in
+the
+epileptic
+patients
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Rapamycin
+(
+FRAP
+/
+mTOR
+inhibitor
+)
+blocked
+4E
+-
+BP1
+phosphorylation
+causing
+a
+predominance
+of
+the
+alpha
+(
+hypophosphorylated
+)
+band
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+investigate
+the
+reaction
+kinetics
+of
+small
+spherical
+particles
+with
+inertia
+,
+obeying
+coalescence
+type
+of
+reaction
+,
+B
++
+B
+-->
+B
+,
+and
+being
+advected
+by
+hydrodynamical
+flows
+with
+time
+-
+periodic
+forcing
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Corticosteroid
+-
+mediated
+transcriptional
+inhibition
+was
+greater
+for
+MR
+/
+GR
+in
+combination
+than
+for
+MR
+or
+GR
+alone
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+data
+define
+a
+conserved
+pathway
+wherein
+sequential
+histone
+modifications
+establish
+a
+"
+histone
+code
+"
+essential
+for
+the
+epigenetic
+inheritance
+of
+heterochromatin
+assembly
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+bovine
+PGHS
+-
+2
+cDNA
+was
+cloned
+by
+a
+combination
+of
+reverse
+transcription
+-
+polymerase
+chain
+reaction
+and
+cDNA
+library
+screening
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Telomerase
+is
+a
+ribonucleoprotein
+complex
+that
+synthesizes
+telomeric
+DNA
+onto
+chromosomes
+using
+its
+RNA
+component
+as
+template
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+iterative
+method
+proposed
+by
+Bengtsson
+[
+Appl
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Several
+distinct
+apoptotic
+stimuli
+induce
+the
+expression
+and
+caspase
+-
+dependent
+cleavage
+of
+hTAF
+(
+II
+)
+80
+delta
+.
+hTAF
+(
+II
+)
+80
+delta
+,
+unlike
+hTAF
+(
+II
+)
+80
+,
+forms
+a
+TFIID
+-
+like
+complex
+lacking
+hTAF
+(
+II
+)
+31
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+With
+NEU
+overexpression
+,
+nodal
+control
+decreased
+from
+72
+%
+to
+34
+%
+(
+p
+=
+.
+008
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mouse
+platelet
+-
+derived
+growth
+factor
+(
+PDGF
+)
+beta
+-
+receptor
+promoter
+contains
+a
+CCAAT
+motif
+,
+and
+NF
+-
+Y
+plays
+an
+essential
+role
+in
+its
+transcription
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Biol
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+loop
+domain
+of
+heat
+shock
+transcription
+factor
+1
+dictates
+DNA
+-
+binding
+specificity
+and
+responses
+to
+heat
+stress
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+activation
+was
+then
+blocked
+by
+CGS
+12066A
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Among
+the
+transcription
+factors
+known
+to
+interact
+with
+Groucho
+-
+related
+protein
+,
+only
+RUNX1
+was
+appreciably
+downregulated
+by
+E2A
+-
+HLF
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+new
+intron
+of
+476
+base
+pairs
+was
+found
+in
+the
+middle
+of
+the
+5
+'-
+untranslated
+leader
+sequence
+and
+was
+shown
+to
+robustly
+enhance
+the
+promoter
+activity
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Our
+findings
+further
+our
+understanding
+of
+how
+ZBP
+-
+89
+modulates
+cell
+proliferation
+and
+reveals
+a
+novel
+mechanism
+by
+which
+the
+p53
+protein
+is
+stabilized
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+free
+-
+swimming
+rotatory
+test
+mice
+spend
+most
+of
+the
+time
+swimming
+close
+to
+the
+wall
+of
+the
+container
+attempting
+to
+escape
+from
+an
+aversive
+test
+situation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+As
+well
+,
+mixtures
+of
+(
+LA
+)(
+12
+)
+with
+the
+longer
+chain
+PEs
+exhibit
+unusual
+biomodal
+enthalpy
+variations
+,
+suggesting
+peptide
+immiscibility
+in
+thicker
+gel
+state
+bilayers
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+At
+the
+time
+of
+the
+blind
+therapeutic
+doses
+,
+Tg
+-
+off
+values
+ranged
+from
+8
+to
+608
+microg
+/
+l
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Nephrotoxicity
+after
+orthotopic
+liver
+transplantation
+in
+cyclosporin
+A
+and
+FK
+506
+-
+treated
+patients
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+contrast
+to
+MPc3
+,
+data
+indicate
+that
+the
+Pc
+protein
+M33
+does
+not
+interact
+with
+AF9
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hydrocoele
+is
+common
+in
+men
+in
+Wuchereria
+bancrofti
+-
+endemic
+areas
+,
+the
+treatment
+for
+which
+is
+currently
+surgical
+intervention
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Of
+the
+patients
+in
+each
+regimen
+who
+reached
+study
+end
+points
+,
+17
+of
+29
+(
+59
+%)
+were
+in
+regimen
+A
+,
+11
+of
+20
+(
+55
+%)
+were
+in
+regimen
+B
+,
+and
+28
+of
+43
+(
+65
+%)
+were
+in
+regimen
+C
+met
+the
+treatment
+success
+criterion
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+One
+maternal
+death
+,
+reduced
+body
+weight
+,
+and
+reduced
+weight
+gain
+were
+noted
+at
+the
+high
+dose
+;
+confirmed
+pregnancy
+rates
+were
+84
+to
+100
+%
+for
+each
+group
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Karger
+AG
+,
+Basel
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+regards
+to
+the
+latter
+activity
+,
+it
+has
+been
+shown
+that
+S3
+contains
+vigorous
+N
+-
+glycosylase
+activity
+for
+the
+removal
+of
+8
+-
+oxoguanine
+residues
+in
+DNA
+that
+leaves
+baseless
+sites
+in
+their
+places
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+describe
+a
+total
+of
+39
+DEAH
+helicases
+in
+these
+four
+species
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+prospective
+trial
+was
+undertaken
+to
+determine
+(
+1
+)
+clinical
+characteristics
+of
+patients
+with
+chest
+pain
+;
+(
+2
+)
+value
+of
+cardiac
+markers
+troponin
+T
+,
+myoglobin
+and
+CK
+-
+MB
+mass
+in
+differentiating
+cardiac
+and
+noncardiac
+chest
+pain
+;
+(
+3
+)
+the
+proportion
+of
+patients
+with
+ACS
+in
+whom
+these
+markers
+provided
+helpful
+additional
+information
+on
+admission
+and
+afterwards
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Inactivity
+of
+the
+human
+cytomegalovirus
+(
+HCMV
+)
+major
+immediate
+-
+early
+regulatory
+region
+(
+MIERR
+),
+which
+is
+composed
+of
+promoter
+,
+enhancer
+,
+unique
+region
+,
+and
+modulator
+,
+is
+linked
+to
+lack
+of
+HCMV
+replication
+in
+latently
+infected
+cells
+and
+in
+other
+nonpermissive
+cell
+types
+,
+including
+human
+embryonal
+NTera2
+carcinoma
+(
+NT2
+)
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+observed
+triplexes
+depend
+on
+the
+length
+of
+the
+repeat
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Statistical
+Analysis
+included
+ANOVA
+,
+the
+Pearson
+Product
+Moment
+Correlation
+Coefficient
+,
+Principal
+Components
+Analysis
+and
+Discriminant
+Function
+Analysis
+and
+the
+calculation
+of
+Cronbach
+'
+s
+alpha
+(
+alpha
+)
+RESULTS
+:
+Both
+Sensitivity
+and
+specificity
+exceed
+90
+.
+00
+at
+23
+/
+24
+,
+Chronbach
+'
+s
+alpha
+for
+the
+total
+scale
+was
+equal
+to
+0
+.
+95
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+BACKGROUND
+:
+Previous
+studies
+have
+indicated
+that
+the
+60
+-,
+30
+-,
+28
+-
+and
+12
+-
+item
+versions
+of
+the
+General
+Health
+Questionnaire
+(
+GHQ
+)
+are
+liable
+to
+retest
+effects
+,
+especially
+when
+administered
+multiple
+times
+with
+short
+intervals
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cross
+-
+linking
+FcalphaR
+on
+wt
+-
+ITAM
+or
+IIA
+-
+ITAM
+cells
+triggered
+equivalent
+PI
+3
+-
+kinase
+-
+dependent
+activation
+of
+PKBalpha
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+An
+F222W
+:
+W21F
+rGST
+A1
+-
+1
+double
+mutant
+provides
+a
+direct
+fluorescence
+probe
+of
+changes
+in
+the
+environment
+of
+the
+C
+-
+terminal
+residue
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Binding
+of
+serum
+response
+factor
+to
+CArG
+box
+sequences
+is
+necessary
+but
+not
+sufficient
+to
+restrict
+gene
+expression
+to
+arterial
+smooth
+muscle
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+They
+consist
+of
+at
+least
+two
+separable
+components
+,
+one
+heat
+stable
+and
+the
+other
+heat
+labile
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+No
+preferential
+VH
+/
+VL
+-
+chains
+correlated
+with
+any
+of
+the
+12
+different
+antigen
+reactivities
+,
+even
+for
+mAbs
+with
+nearly
+identical
+cross
+-
+reactivities
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+results
+were
+compared
+with
+the
+estimates
+of
+penetration
+from
+steady
+-
+state
+calculations
+,
+square
+root
+of
+time
+calculations
+,
+and
+a
+biologically
+based
+mathematical
+model
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Based
+on
+this
+analysis
+,
+we
+propose
+that
+the
+interactions
+of
+Sos
+with
+the
+switch
+1
+and
+switch
+2
+regions
+of
+Ras
+have
+distinct
+functional
+consequences
+:
+the
+interaction
+with
+switch
+2
+mediates
+the
+anchoring
+of
+Ras
+to
+Sos
+,
+whereas
+the
+interaction
+with
+switch
+1
+leads
+to
+disruption
+of
+the
+nucleotide
+-
+binding
+site
+and
+GDP
+dissociation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Thus
+,
+the
+interaction
+of
+Tat
+with
+the
+components
+of
+this
+rel
+/
+AP1
+cooperative
+complex
+seems
+to
+induce
+quantitative
+and
+qualitative
+alterations
+of
+this
+complex
+as
+activation
+progresses
+,
+resulting
+in
+a
+decrease
+of
+IL
+-
+2
+gene
+transcription
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SIT
+(
+SHP2
+-
+interacting
+transmembrane
+adaptor
+protein
+)
+is
+a
+recently
+identified
+transmembrane
+adaptor
+protein
+,
+which
+is
+expressed
+in
+lymphocytes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+this
+manuscript
+we
+demonstrate
+that
+two
+tandem
+Ets
+sites
+in
+the
+mouse
+GL
+alpha
+promoter
+bind
+the
+transcription
+factors
+Elf
+-
+1
+and
+PU
+.
+1
+,
+and
+that
+the
+3
+'
+site
+is
+essential
+for
+expression
+of
+a
+luciferase
+reporter
+gene
+driven
+by
+the
+GL
+alpha
+promoter
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+ICA
+in
+the
+reference
+solution
+was
+characterised
+by
+LC
+and
+time
+-
+of
+-
+flight
+(
+TOF
+)
+MS
+and
+quantified
+by
+LC
+chemiluminescent
+nitrogen
+detection
+(
+LC
+-
+CLND
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+disorders
+include
+low
+-
+back
+pain
+,
+saddle
+anesthesia
+,
+bilateral
+sciatica
+,
+then
+motor
+weakness
+of
+the
+lower
+extremities
+or
+chronic
+paraplegia
+and
+,
+bladder
+dysfunction
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+C
+.
+elegans
+embryogenesis
+begins
+with
+a
+stereotyped
+sequence
+of
+asymmetric
+cell
+divisions
+that
+are
+largely
+responsible
+for
+establishing
+the
+nematode
+body
+plan
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Additionally
+,
+a
+CaCO3
+-
+CO2
+/
+N2
+buffered
+solution
+was
+necessary
+to
+maintain
+a
+pH
+of
+8
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Mss4
+also
+acts
+as
+a
+relatively
+inefficient
+guanine
+nucleotide
+exchange
+factor
+(
+GEF
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Effects
+of
+3
+'
+terminus
+modifications
+on
+mRNA
+functional
+decay
+during
+in
+vitro
+protein
+synthesis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Disciplinary
+action
+for
+DNA
+violation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+is
+necessary
+if
+psychiatric
+diagnoses
+are
+ultimately
+going
+to
+be
+refined
+and
+validated
+against
+biological
+criteria
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+also
+demonstrate
+that
+the
+spo20
+(+)
+gene
+product
+is
+structurally
+homologous
+to
+Saccharomyces
+cerevisiae
+Sec14
+,
+the
+major
+phosphatidylinositol
+transfer
+protein
+of
+budding
+yeast
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+addition
+,
+another
+derivative
+of
+pCMVJS21
+(
+pCMVJS21DeltaGP
+)
+in
+which
+the
+gag
+,
+pol
+(
+and
+orf
+-
+x
+)
+coding
+sequences
+were
+deleted
+also
+gave
+transformed
+foci
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+It
+is
+shown
+that
+,
+for
+any
+periodic
+input
+,
+the
+map
+representing
+the
+relation
+between
+input
+phases
+at
+consecutive
+discharge
+times
+can
+be
+restricted
+to
+a
+piecewise
+continuous
+,
+orientation
+preserving
+circle
+map
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Decreased
+serum
+ceruloplasmin
+and
+copper
+levels
+in
+cervical
+dystonia
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Northern
+blot
+analysis
+of
+RNAs
+from
+a
+number
+of
+mouse
+tissues
+reveals
+that
+Atp6i
+is
+expressed
+predominantly
+in
+osteoclasts
+,
+and
+this
+predominant
+expression
+was
+confirmed
+by
+reverse
+-
+transcription
+polymerase
+chain
+reaction
+(
+RT
+-
+PCR
+)
+assay
+and
+immunohistochemical
+analysis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Behavioural
+tests
+with
+192
+specimen
+of
+the
+roman
+garden
+snail
+Helix
+pomatia
+L
+.
+were
+performed
+in
+order
+to
+clarify
+whether
+the
+thermopreferendum
+of
+this
+pulmonate
+is
+influenced
+not
+only
+by
+the
+temperature
+of
+the
+substratum
+but
+also
+by
+air
+temperature
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+As
+well
+,
+IFN
+-
+gamma
+-
+induced
+expression
+of
+IRF
+-
+1
+and
+its
+binding
+to
+the
+IRF
+element
+is
+inhibited
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Baseline
+BMD
+values
+were
+significantly
+lower
+in
+the
+oligo
+-
+amenorrheic
+group
+than
+in
+the
+two
+others
+at
+the
+level
+of
+lumbar
+spine
+(
+anteroposterior
+view
+:
+0
+.
+941
++/-
+0
+.
+039
+in
+oligo
+-
+amenorrheic
+vs
+1
+.
+077
++/-
+0
+.
+029
+or
+1
+.
+051
++/-
+0
+.
+017
+g
+x
+cm
+(-
+2
+),
+P
+<
+0
+.
+005
+,
+in
+the
+eumenorrheic
+and
+contraceptive
+user
+groups
+,
+respectively
+)
+but
+not
+in
+weight
+-
+bearing
+bone
+such
+as
+proximal
+and
+midshaft
+femur
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+glucose
+/
+insulin
+stimulation
+was
+inhibited
+by
+the
+addition
+of
+polyunsaturated
+fatty
+acids
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+report
+the
+results
+of
+a
+detailed
+policy
+analysis
+comparing
+2
+CJD
+-
+related
+decisions
+:
+a
+1995
+recall
+of
+blood
+from
+a
+donor
+with
+classic
+CJD
+and
+the
+1999
+decision
+to
+defer
+donations
+from
+individuals
+with
+a
+6
+-
+month
+travel
+history
+to
+the
+UK
+between
+1980
+and
+1996
+due
+to
+concerns
+related
+to
+variant
+CJD
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+5
+'
+flanking
+sequence
+of
+the
+3B
+gene
+is
+extremely
+A
++
+T
+rich
+but
+contains
+five
+G
+/
+C
+rich
+stretches
+,
+each
+approximately
+7bp
+long
+,
+which
+have
+strong
+sequence
+similarity
+to
+the
+G
+boxes
+found
+upstream
+of
+other
+developmentally
+regulated
+Dictyostelium
+genes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+PACAP
+mRNA
+was
+widely
+expressed
+in
+most
+human
+tissues
+;
+in
+transfected
+cells
+,
+PACAP
+was
+diffusely
+expressed
+in
+the
+cytoplasm
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+proportion
+of
+the
+biopsies
+found
+to
+be
+seropositive
+for
+HBs
+antigen
+was
+27
+.
+9
+%,
+and
+these
+showed
+either
+MGN
+or
+MPGN
+pattern
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+present
+study
+,
+we
+have
+determined
+the
+ICBP90
+gene
+structure
+by
+screening
+of
+a
+human
+placenta
+genomic
+library
+and
+PCR
+analysis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+stable
+transfectants
+(
+BM3
+cells
+)
+expressing
+a
+mutant
+bacterial
+P450
+AA
+epoxygenase
+,
+F87V
+BM3
+,
+which
+was
+genetically
+engineered
+to
+metabolize
+arachidonic
+acid
+only
+to
+14
+,
+15
+-
+EET
+,
+AA
+did
+not
+induce
+apoptosis
+and
+protected
+against
+agonist
+-
+induced
+apoptosis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+revitalization
+of
+surgery
+for
+Parkinson
+'
+s
+disease
+(
+PD
+)
+has
+fueled
+discussion
+about
+the
+best
+methodology
+to
+define
+the
+target
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Foreigners
+return
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+She
+drank
+alcohol
+once
+or
+twice
+a
+week
+and
+regularly
+took
+an
+analgesic
+preparation
+,
+containing
+aspirin
+and
+acetaminophen
+,
+for
+alleviation
+of
+headaches
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+authors
+did
+not
+detect
+any
+significant
+correlations
+between
+parameters
+of
+the
+lipids
+of
+bone
+marrow
+and
+leptin
+levels
+in
+serum
+and
+bone
+marrow
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+When
+the
+blood
+clot
+is
+formed
+in
+the
+vitreous
+cavity
+,
+intravitreal
+injection
+of
+t
+-
+PA
+can
+convert
+plasminogen
+to
+plasmin
+and
+remove
+the
+clot
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+When
+this
+CCAAT
+box
+was
+inserted
+into
+a
+heterologous
+promoter
+construct
+,
+OA
+induction
+was
+dependent
+on
+an
+intact
+CCAAT
+box
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Encouraged
+by
+a
+Dutch
+study
+using
+etidronate
+/
+fluoride
+in
+corticoid
+-
+induced
+osteoporosis
+,
+we
+performed
+a
+pilot
+study
+in
+33
+men
+with
+severe
+established
+primary
+osteoporosis
+giving
+cyclically
+etidronate
+for
+14
+days
+followed
+by
+fluoride
+plus
+calcium
+/
+vitamin
+D
+for
+76
+days
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Far
+Western
+blot
+analysis
+suggested
+that
+the
+tandem
+SH2
+domains
+of
+SHP2
+bind
+to
+Gab1
+in
+a
+specific
+orientation
+,
+in
+which
+the
+N
+-
+SH2
+domain
+binds
+to
+phosphotyrosine
+(
+Tyr
+(
+P
+))-
+627
+and
+the
+C
+-
+SH2
+domain
+binds
+to
+Tyr
+(
+P
+)-
+659
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Electrophoretic
+mobility
+shift
+assays
+and
+coimmunoprecipitation
+studies
+suggest
+that
+homo
+-
+and
+heterodimerization
+occurs
+between
+cKrox
+family
+members
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Expression
+of
+human
+RACK1
+efficiently
+relieves
+E1A
+-
+mediated
+growth
+inhibition
+in
+HF7c
+and
+protects
+human
+tumor
+cells
+from
+E1A
+-
+induced
+apoptosis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+By
+using
+space
+-
+discrete
+/
+continuous
+metapopulation
+dynamic
+models
+and
+computer
+simulations
+,
+we
+show
+that
+there
+can
+be
+two
+principally
+different
+regimes
+of
+metapopulation
+dynamics
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Arterial
+blood
+gas
+tensions
+were
+similar
+across
+all
+ventilation
+modes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Four
+casein
+kinase
+I
+isoforms
+are
+differentially
+partitioned
+between
+nucleus
+and
+cytoplasm
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+CONCLUSION
+:
+Extrusion
+cooking
+is
+effective
+for
+the
+inactivation
+of
+DON
+but
+is
+of
+limited
+value
+for
+AFB1
+,
+even
+if
+metabisulphite
+is
+added
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Also
+,
+the
+EWS
+protein
+stimulates
+transcription
+mediated
+by
+the
+COOH
+-
+terminal
+transactivation
+domain
+of
+the
+cofactor
+CREB
+-
+binding
+protein
+(
+CBP
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+HSF
+binds
+DNA
+as
+a
+trimer
+,
+and
+additional
+trimers
+can
+bind
+DNA
+co
+-
+operatively
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Two
+cases
+with
+marked
+chronic
+arm
+lymphoedema
+reported
+major
+and
+persistent
+improvements
+in
+arm
+volume
+for
+at
+least
+12
+months
+after
+treatment
+with
+HBO2
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Growth
+hormone
+and
+insulin
+-
+like
+growth
+factor
+I
+receptors
+in
+the
+temporomandibular
+joint
+of
+the
+rat
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Folate
+metabolism
+in
+the
+human
+malaria
+parasite
+Plasmodium
+falciparum
+is
+an
+essential
+activity
+for
+cell
+growth
+and
+replication
+,
+and
+the
+target
+of
+an
+important
+class
+of
+therapeutic
+agents
+in
+widespread
+use
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+results
+indicate
+that
+BACM
+has
+antiplaque
+and
+stronger
+antidegradation
+effects
+than
+GLCM
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+mutation
+in
+the
+C
+domain
+of
+Rb
+,
+L901Q
+,
+has
+been
+identified
+that
+completely
+abolishes
+cdk4
+/
+D1
+phosphorylation
+of
+the
+isolated
+C
+domain
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Homo
+-
+oligomerisation
+and
+nuclear
+localisation
+of
+mouse
+histone
+deacetylase
+1
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Energy
+expenditure
+was
+obtained
+using
+a
+primed
+,
+3
+-
+hour
+infusion
+of
+NaH
+(
+13
+)
+CO
+(
+3
+'),
+breath
+(
+13
+)
+CO
+(
+2
+)
+enrichment
+determination
+by
+isotope
+ratio
+mass
+spectroscopy
+,
+and
+the
+application
+of
+a
+standard
+regression
+equation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Fasting
+gastrin
+levels
+(
+normal
+range
+:
+25
+-
+110
+mU
+/
+L
+)
+varied
+from
+48
+.
+78
+mU
+/
+L
+-
+168
+.
+20
+(
+mean
+:
+85
+.
+23
+mU
+/
+L
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Identification
+of
+pulmonary
+vein
+stenosis
+after
+radiofrequency
+ablation
+for
+atrial
+fibrillation
+using
+MRI
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+continuing
+development
+of
+ligands
+that
+function
+as
+selective
+estrogens
+or
+antiestrogens
+for
+ERalpha
+or
+ERbeta
+should
+allow
+optimized
+tissue
+selectivity
+of
+these
+agents
+for
+menopausal
+hormone
+replacement
+therapy
+and
+the
+treatment
+and
+prevention
+of
+breast
+cancer
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Baseline
+variables
+associated
+with
+CD
+included
+a
+less
+frequent
+use
+of
+prestroke
+aspirin
+and
+a
+higher
+incidence
+of
+early
+CT
+changes
+of
+edema
+or
+mass
+effect
+or
+dense
+middle
+cerebral
+artery
+sign
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+peculiar
+people
+:
+"
+the
+physiological
+aspects
+of
+Mormonism
+1850
+-
+1975
+."
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SH2D1A
+protein
+levels
+are
+up
+-
+regulated
+by
+CD40
+cross
+-
+linking
+and
+down
+-
+regulated
+by
+B
+cell
+receptor
+ligation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+Genescan
+program
+predicted
+an
+open
+reading
+frame
+of
+a
+novel
+,
+intron
+-
+less
+gene
+adjacent
+to
+the
+B236
+spot
+that
+encodes
+a
+putative
+493
+-
+amino
+acid
+protein
+containing
+the
+SNAG
+repressor
+motif
+in
+the
+NH2
+-
+terminal
+region
+and
+five
+C2H2
+-
+type
+zinc
+finger
+motifs
+in
+the
+COOH
+-
+terminal
+half
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Under
+our
+conditions
+,
+the
+combination
+O3
+/
+UV
+did
+not
+improve
+the
+degradation
+rate
+obtained
+by
+ozonation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+metabolic
+events
+occurring
+at
+or
+near
+that
+structure
+and
+involving
+cyclin
+D3
+cause
+the
+translocation
+of
+ICP0
+to
+the
+cytoplasm
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+single
+case
+the
+restoration
+of
+a
+structured
+daily
+routine
+represents
+the
+presupposition
+for
+a
+cognitive
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Immunofluorescence
+studies
+in
+C2C12
+myotubes
+show
+that
+Smad2
+and
+MEF2A
+co
+-
+localise
+in
+the
+nucleus
+of
+multinuclear
+myotubes
+during
+differentiation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+35
+of
+those
+patients
+DD
+was
+measured
+also
+with
+microlatex
+tests
+--
+Tinaquant
+and
+BC
+d
+-
+dimer
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Simulating
+the
+impact
+during
+human
+jumping
+by
+means
+of
+a
+4
+-
+degrees
+-
+of
+-
+freedom
+model
+with
+time
+-
+dependent
+properties
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+novel
+approach
+was
+developed
+for
+identifying
+transcription
+factor
+activities
+associated
+with
+NGF
+-
+activated
+,
+but
+not
+EGF
+-
+activated
+,
+signaling
+,
+using
+random
+oligonucleotide
+clones
+from
+a
+DNA
+recognition
+library
+to
+isolate
+specific
+DNA
+binding
+proteins
+from
+PC12
+nuclear
+extracts
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Atheroma
+appears
+as
+a
+very
+low
+signal
+intensity
+area
+on
+2
+-
+dimensional
+time
+-
+of
+-
+flight
+(
+TOF
+)
+magnetic
+resonance
+(
+MR
+)
+images
+,
+and
+its
+components
+have
+various
+signal
+intensities
+on
+spin
+-
+echo
+(
+SE
+)
+images
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Finally
+a
+10
+-
+nucleotide
+region
+flanking
+the
+exon
+4
+protein
+-
+binding
+site
+is
+homologous
+to
+instability
+elements
+within
+five
+other
+transcripts
+,
+suggesting
+that
+a
+common
+coding
+region
+determinant
+may
+exist
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Chronic
+nutritional
+diseases
+of
+infectious
+origin
+:
+an
+assessment
+of
+a
+nascent
+field
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+cut
+-
+off
+percentage
+positivity
+value
+was
+established
+using
+500
+brucellosis
+-
+positive
+and
+500
+brucellosis
+-
+negative
+serum
+samples
+,
+confirmed
+with
+reference
+to
+the
+sample
+data
+using
+the
+indirect
+ELISA
+kit
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+PROCEDURE
+:
+Cannulas
+were
+surgically
+positioned
+in
+the
+abomasal
+body
+and
+pyloric
+antrum
+of
+each
+calf
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+utilities
+measured
+in
+our
+study
+can
+be
+applied
+directly
+to
+quality
+-
+of
+-
+life
+determinations
+in
+clinical
+trials
+of
+adjuvant
+IFN
+alpha
+-
+2b
+to
+measure
+the
+net
+benefit
+of
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cells
+lacking
+p116
+exhibit
+a
+striking
+defect
+in
+the
+formation
+of
+these
+macropinocytic
+structures
+,
+a
+concomitant
+reduction
+in
+the
+rate
+of
+fluid
+phase
+pinocytosis
+,
+a
+significant
+decrease
+in
+the
+efficiency
+of
+chemotactic
+aggregation
+,
+and
+a
+decrease
+in
+cellular
+F
+-
+actin
+content
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Ectopic
+expression
+of
+the
+dominant
+mutant
+Lg3
+allele
+is
+believed
+to
+cause
+the
+phenotype
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Specimen
+mass
+reduction
+increased
+with
+irradiance
+from
+19
+to
+72
+%
+of
+the
+initial
+mass
+for
+9
+--
+31
+W
+/
+cm
+(
+2
+),
+respectively
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Analysis
+of
+the
+genome
+sequence
+revealed
+26
+,
+588
+protein
+-
+encoding
+transcripts
+for
+which
+there
+was
+strong
+corroborating
+evidence
+and
+an
+additional
+approximately
+12
+,
+000
+computationally
+derived
+genes
+with
+mouse
+matches
+or
+other
+weak
+supporting
+evidence
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+other
+inhibitor
+was
+a
+single
+TAR
+decoy
+,
+driven
+by
+the
+U6
+small
+nuclear
+RNA
+promoter
+(
+U6
+-
+P
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+By
+comparison
+,
+in
+nontumorigenic
+Ad5
+cells
+,
+class
+I
+expression
+is
+high
+due
+to
+negligible
+binding
+of
+COUP
+-
+TF
+and
+strong
+binding
+of
+NF
+-
+kappaB
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Moreover
+,
+a
+complex
+containing
+PTP
+phi
+,
+paxillin
+,
+and
+a
+paxillin
+-
+associated
+tyrosine
+kinase
+,
+Pyk2
+,
+can
+be
+immunoprecipitated
+from
+macrophage
+lysates
+,
+and
+the
+catalytic
+domain
+of
+PTP
+phi
+selectively
+binds
+paxillin
+and
+Pyk2
+in
+vitro
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Our
+previous
+studies
+have
+shown
+that
+SHP
+-
+1
+,
+a
+SH2
+domain
+-
+containing
+protein
+-
+tyrosine
+phosphatase
+,
+is
+expressed
+not
+only
+in
+cells
+of
+hematopoietic
+lineages
+,
+but
+also
+in
+many
+non
+-
+hematopoietic
+cells
+under
+the
+control
+of
+an
+alternative
+tissue
+-
+specific
+promoter
+,
+P1
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Whereas
+Smad2
+was
+rapidly
+phosphorylated
+by
+TGF
+-
+beta
+and
+involved
+in
+the
+initial
+activation
+of
+Agc
+expression
+in
+confluent
+cells
+,
+Smad2
+activation
+was
+not
+required
+for
+maintaining
+the
+high
+level
+of
+Agc
+expression
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+astronaut
+crew
+operates
+the
+payload
+and
+documents
+its
+operation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+molecule
+,
+wH22xeGFP
+,
+consists
+of
+the
+entire
+humanized
+anti
+-
+FcgammaRI
+mAb
+H22
+with
+eGFP
+genetically
+fused
+to
+the
+C
+-
+terminal
+end
+of
+each
+CH3
+domain
+.
+wH22xeGFP
+binds
+within
+the
+ligand
+-
+binding
+region
+by
+its
+Fc
+end
+,
+as
+well
+as
+outside
+the
+ligand
+-
+binding
+region
+by
+its
+Fab
+ends
+,
+thereby
+cross
+-
+linking
+FcgammaRI
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+On
+the
+other
+hand
+,
+hepatic
+arterial
+infusion
+therapy
+prolongs
+the
+survival
+of
+H3
+patients
+only
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hepatitis
+B
+and
+C
+seroprevalence
+rates
+among
+high
+-
+risk
+adolescents
+are
+lower
+in
+El
+Paso
+than
+in
+other
+similar
+US
+populations
+,
+presenting
+an
+ideal
+climate
+for
+prevention
+programs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+found
+that
+the
+SOCS
+box
+interacted
+with
+Cullin
+-
+2
+and
+promoted
+ubiquitination
+of
+TEL
+-
+JAK2
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+patient
+is
+described
+with
+skin
+lesions
+resembling
+Kaposi
+'
+s
+sarcoma
+(
+KS
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Special
+issues
+devoted
+to
+the
+biosynthesis
+of
+woody
+plant
+biopolymers
+and
+related
+substances
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+data
+suggest
+that
+ADAM
+-
+TS12
+may
+play
+roles
+in
+pulmonary
+cells
+during
+fetal
+development
+or
+in
+tumor
+processes
+through
+its
+proteolytic
+activity
+or
+as
+a
+molecule
+potentially
+involved
+in
+regulation
+of
+cell
+adhesion
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Progressive
+study
+and
+robustness
+test
+of
+QSAR
+model
+based
+on
+quantum
+chemical
+parameters
+for
+predicting
+BCF
+of
+selected
+polychlorinated
+organic
+compounds
+(
+PCOCs
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Additional
+deletion
+mutations
+revealed
+a
+new
+,
+67
+-
+amino
+-
+acid
+functional
+domain
+within
+the
+proline
+-
+rich
+region
+of
+SLP
+-
+76
+,
+which
+we
+have
+termed
+the
+P
+-
+1
+domain
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Patients
+with
+type
+III
+SOD
+may
+have
+visceral
+hyperalgesia
+;
+a
+trial
+of
+antidepressants
+or
+a
+therapeutic
+trial
+with
+botulinum
+toxin
+injection
+into
+the
+ampulla
+should
+be
+considered
+prior
+to
+more
+invasive
+endoscopic
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+have
+now
+tested
+all
+known
+mammalian
+Groucho
+family
+members
+for
+their
+ability
+to
+interact
+specifically
+with
+individual
+Tcf
+/
+Lef
+family
+members
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Body
+weight
+reduction
+increases
+insulin
+sensitivity
+and
+improves
+both
+blood
+glucose
+and
+blood
+pressure
+control
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sequence
+analysis
+indicates
+that
+RBP21
+shares
+homology
+with
+other
+retinoblastoma
+-
+binding
+proteins
+in
+the
+pRb
+-
+binding
+motif
+LxCxE
+at
+the
+C
+-
+terminal
+region
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Tolerance
+in
+renal
+transplantation
+after
+allogeneic
+bone
+marrow
+transplantation
+-
+6
+-
+year
+follow
+-
+up
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+By
+analyzing
+5
+'-
+deletion
+insulin
+promoter
+-
+reporter
+constructs
+in
+transient
+transfections
+of
+clonal
+INS
+-
+1
+beta
+-
+cells
+,
+we
+located
+activating
+Hh
+-
+responsive
+regions
+within
+the
+rat
+insulin
+I
+promoter
+that
+include
+the
+glucose
+-
+response
+elements
+Far
+(
+E2
+)
+and
+Flat
+(
+A2
+/
+A3
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+However
+,
+when
+directed
+to
+the
+nucleosome
+by
+fusion
+to
+core
+histone
+H2A
+or
+H2B
+,
+the
+non
+-
+histone
+tail
+forms
+an
+MCB
+that
+appears
+identical
+to
+that
+of
+the
+endogenous
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Data
+were
+obtained
+from
+2
+undergraduate
+student
+samples
+,
+a
+self
+-
+report
+group
+(
+n
+=
+132
+)
+who
+provided
+NEO
+-
+PI
+-
+R
+self
+-
+ratings
+on
+2
+occasions
+separated
+by
+a
+7
+-
+to
+14
+-
+day
+interval
+and
+an
+informant
+group
+(
+n
+=
+109
+)
+who
+provided
+ratings
+of
+well
+-
+known
+friends
+or
+relatives
+on
+2
+occasions
+separated
+by
+a
+6
+month
+interval
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Pulmonary
+embolectomy
+and
+lung
+transplantation
+are
+the
+main
+indications
+for
+the
+use
+of
+heart
+-
+lung
+-
+machine
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Comparison
+of
+German
+language
+versions
+of
+the
+QWB
+-
+SA
+and
+SF
+-
+36
+evaluating
+outcomes
+for
+patients
+with
+prostate
+disease
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+median
+preoperative
+best
+-
+corrected
+visual
+acuity
+of
+0
+.
+08
+(
+range
+hand
+motions
+/
+0
+.
+003
+to
+0
+.
+4
+),
+improved
+by
+5
+lines
+to
+a
+median
+final
+postoperative
+best
+-
+corrected
+visual
+acuity
+of
+0
+.
+25
+(
+range
+0
+.
+025
+-
+0
+.
+5
+)
+(
+P
+=
+0
+.
+001
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Angina
+(
+Q
+)
+persistence
+showed
+marked
+associations
+with
+previous
+myocardial
+infarction
+,
+diagnosed
+angina
+,
+electrocardiogram
+ischemia
+,
+and
+subsequent
+major
+ischemic
+heart
+disease
+events
+from
+Q5
+onward
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Site
+-
+directed
+mutagenesis
+of
+CAR
+revealed
+that
+CAR
+residues
+Leu73
+and
+Lys121
+and
+/
+or
+Lys123
+are
+critical
+contact
+residues
+,
+with
+Tyr80
+and
+Tyr83
+being
+peripherally
+involved
+in
+the
+binding
+interaction
+with
+the
+Ad5
+,
+Ad9
+,
+Ad12
+,
+and
+Ad41L
+fiber
+knobs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Transforming
+growth
+factor
+-
+beta
+(
+TGF
+-
+beta
+)
+induced
+growth
+arrest
+of
+cells
+involves
+regulation
+of
+the
+activities
+of
+both
+D
+-
+and
+E
+-
+type
+cyclin
+kinase
+complexes
+thought
+to
+be
+mediated
+primarily
+by
+the
+regulation
+of
+p15
+(
+Ink4b
+)
+and
+p27
+(
+Kip1
+)
+cyclin
+kinase
+inhibitors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+data
+indicate
+that
+the
+SmSmad2
+responds
+to
+the
+TGF
+-
+beta
+signals
+by
+interaction
+with
+receptor
+I
+,
+which
+phosphorylates
+it
+,
+whereupon
+it
+translocates
+into
+the
+nucleus
+presumably
+to
+regulate
+target
+gene
+transcription
+and
+consequently
+elicit
+a
+specific
+TGF
+-
+beta
+effect
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+propose
+that
+TFOs
+represent
+a
+therapeutic
+potential
+to
+specifically
+diminish
+the
+expression
+of
+c
+-
+sis
+/
+PDGF
+-
+B
+proto
+-
+oncogene
+in
+various
+pathologic
+settings
+where
+constitutive
+expression
+of
+this
+gene
+has
+been
+observed
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+increased
+clearance
+observed
+in
+young
+infants
+is
+in
+contrast
+to
+other
+opioids
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Peripheral
+metabolism
+of
+androgens
+takes
+place
+in
+various
+areas
+within
+the
+pilosebaceous
+unit
+,
+as
+indicated
+by
+local
+differences
+in
+the
+activities
+of
+aromatase
+,
+5alpha
+-
+reductase
+as
+well
+as
+of
+the
+presence
+of
+the
+androgen
+receptors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+unique
+location
+of
+cavernous
+malformation
+is
+associated
+with
+a
+risk
+of
+permanent
+loss
+of
+the
+vision
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+JHRLSS
+has
+been
+used
+in
+prior
+studies
+to
+assess
+RLS
+severity
+,
+but
+has
+not
+previously
+been
+validated
+in
+relation
+to
+direct
+measures
+of
+the
+morbidity
+associated
+with
+RLS
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Consistent
+effects
+on
+pVHL
+function
+were
+observed
+for
+all
+mutations
+within
+each
+subclass
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Interestingly
+,
+the
+CYP71D20
+-
+encoded
+enzyme
+activity
+was
+capable
+of
+converting
+both
+5
+-
+epi
+-
+aristolochene
+and
+1
+-
+deoxycapsidiol
+to
+capsidiol
+in
+vitro
+,
+consistent
+with
+the
+notion
+that
+this
+P450
+enzyme
+catalyzes
+both
+hydroxylations
+of
+its
+hydrocarbon
+substrate
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+new
+species
+of
+Euspondylus
+is
+described
+based
+on
+a
+female
+(
+taken
+within
+a
+bromeliad
+)
+from
+Cerro
+El
+Humo
+,
+Sucre
+,
+northeastern
+Venezuela
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+most
+important
+finding
+,
+however
+,
+was
+that
+IMT
+values
+were
+related
+with
+24
+h
+SBP
+or
+PP
+standard
+deviation
+(
+P
+<
+0
+.
+001
+),
+a
+measure
+of
+overall
+SBP
+or
+PP
+variability
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+addition
+,
+severe
+vision
+loss
+can
+be
+seen
+with
+interferon
+alfa
+-
+2b
+-
+associated
+retinopathy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+FLP
+and
+Cre
+recombinase
+function
+in
+Xenopus
+embryos
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Keratoconjunctivitis
+sicca
+appears
+to
+be
+a
+common
+ocular
+complication
+and
+all
+children
+with
+JRA
+should
+be
+screened
+for
+it
+with
+a
+comprehensive
+battery
+of
+tests
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Moreover
+,
+PTax
+expressed
+higher
+background
+activities
+than
+PTF
+,
+indicating
+that
+the
+sequence
+of
+the
+synthetic
+regulatory
+region
+can
+influence
+background
+levels
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+After
+allowing
+time
+for
+absorption
+,
+participants
+completed
+a
+bridge
+simulator
+task
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+cleavage
+site
+between
+VPg
+and
+RNA
+dependent
+RNA
+polymerase
+was
+predicted
+to
+be
+E445
+-
+T446
+based
+on
+the
+amino
+acid
+sequence
+analysis
+of
+the
+polyprotein
+from
+different
+sobemoviruses
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Conformational
+changes
+of
+the
+ferric
+uptake
+regulation
+protein
+upon
+metal
+activation
+and
+DNA
+binding
+;
+first
+evidence
+of
+structural
+homologies
+with
+the
+diphtheria
+toxin
+repressor
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+At
+visit
+5
+,
+the
+isokinetic
+test
+showed
+impaired
+muscle
+function
+recovery
+from
+23
+%
+to
+32
+%,
+while
+the
+manual
+test
+showed
+almost
+full
+recovery
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Constitutive
+phosphorylation
+and
+nuclear
+localization
+of
+Smad3
+are
+correlated
+with
+increased
+collagen
+gene
+transcription
+in
+activated
+hepatic
+stellate
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cholesteryl
+ester
+transfer
+protein
+and
+atherosclerosis
+in
+Japanese
+subjects
+:
+a
+study
+based
+on
+coronary
+angiography
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+And
+,
+most
+importantly
+,
+reconstitution
+of
+a
+consensus
+CRE
+,
+within
+the
+21
+-
+bp
+enhancers
+increases
+binding
+of
+CREB
+/
+ATF
+proteins
+but
+abrogates
+basal
+repression
+of
+LTR
+-
+directed
+transcription
+in
+vitro
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Stable
+transfection
+of
+human
+CHOP
+cDNA
+into
+mammary
+carcinoma
+cells
+demonstrated
+that
+CHOP
+functioned
+not
+as
+a
+mediator
+of
+hGH
+-
+stimulated
+mitogenesis
+but
+rather
+enhanced
+the
+protection
+from
+apoptosis
+afforded
+by
+hGH
+in
+a
+p38
+MAPK
+-
+dependent
+manner
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+combination
+of
+ifosfamide
+,
+epirubicin
+and
+etoposide
+(
+IEV
+)
+is
+an
+effective
+salvage
+regimen
+for
+lymphoproliferative
+disease
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Interestingly
+,
+the
+activity
+of
+IkappaB
+kinase
+(
+IKK
+-
+beta
+),
+which
+plays
+an
+essential
+role
+in
+NF
+-
+kappaB
+activation
+through
+IkappaB
+phosphorylation
+,
+was
+largely
+enhanced
+in
+paclitaxel
+-
+treated
+cells
+,
+detected
+as
+IkappaBalpha
+phosphorylation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+recessive
+hos1
+mutation
+causes
+enhanced
+induction
+of
+the
+CBF
+transcription
+factors
+by
+low
+temperature
+as
+well
+as
+of
+their
+downstream
+cold
+-
+responsive
+genes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Apart
+from
+antimicrobial
+properties
+,
+recent
+data
+indicate
+that
+PMN
+also
+exert
+anti
+-
+inflammatory
+effects
+by
+stimulation
+and
+release
+of
+cytokine
+antagonists
+such
+as
+interleukin
+-
+1
+receptor
+antagonist
+(
+IL
+-
+1ra
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Early
+indicators
+of
+the
+effect
+of
+a
+breast
+cancer
+screening
+program
+for
+low
+-
+income
+women
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+An
+association
+was
+demonstrated
+between
+the
+expression
+of
+aberrantly
+and
+/
+or
+alternatively
+spliced
+mdm2
+mRNAs
+and
+a
+lack
+of
+progesterone
+receptor
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+BACKGROUND
+:
+Dermoscopy
+is
+a
+noninvasive
+technique
+that
+increases
+the
+diagnostic
+accuracy
+of
+pigmented
+skin
+lesions
+,
+particularly
+improving
+the
+diagnosis
+of
+patients
+with
+cutaneous
+melanoma
+in
+situ
+(
+CMIS
+)
+and
+early
+invasive
+melanoma
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Increased
+erythropoietin
+synthesis
+in
+patients
+with
+COLD
+or
+left
+heart
+failure
+is
+related
+to
+alterations
+in
+renal
+haemodynamics
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+(
+two
+-
+motif
+)
+domain
+fold
+contains
+a
+pair
+of
+calcium
+binding
+sites
+very
+similar
+to
+those
+found
+in
+a
+two
+-
+domain
+prokaryotic
+betagamma
+-
+crystallin
+fold
+family
+member
+,
+Protein
+S
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Twenty
+-
+five
+patients
+also
+received
+PET
+examinations
+during
+the
+staging
+procedures
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+last
+case
+,
+both
+hydroxychloroquine
+,
+carbamazepine
+and
+fluvoxamine
+had
+a
+common
+imputability
+which
+was
+plausible
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+all
+of
+these
+cases
+,
+expression
+of
+the
+implicated
+genes
+was
+absent
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+subset
+of
+patients
+(
+n
+=
+30
+)
+underwent
+multichannel
+pressure
+flow
+studies
+,
+which
+demonstrated
+that
+transrectal
+HIFU
+reduces
+bladder
+outflow
+obstruction
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Biochemical
+experiments
+have
+shown
+that
+CopG
+co
+-
+operatively
+associates
+to
+its
+target
+DNA
+at
+low
+protein
+:
+DNA
+ratios
+,
+completely
+protecting
+four
+helical
+turns
+on
+the
+same
+face
+of
+the
+double
+helix
+in
+both
+directions
+from
+the
+inverted
+repeat
+that
+constitutes
+the
+CopG
+primary
+target
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mechanism
+of
+ligand
+-
+activated
+estrogen
+receptor
+alpha
+(
+ERalpha
+)-
+dependent
+activation
+of
+gene
+expression
+through
+the
+SRE
+was
+determined
+by
+mutational
+analysis
+of
+the
+promoter
+,
+analysis
+of
+mitogen
+-
+activated
+protein
+kinase
+(
+MAPK
+)
+pathway
+activation
+by
+E2
+,
+and
+transforming
+growth
+factor
+alpha
+(
+TGF
+-
+alpha
+)
+as
+a
+positive
+control
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+study
+investigated
+whether
+boron
+would
+enhance
+the
+ability
+of
+17beta
+-
+estradiol
+(
+E2
+)
+or
+parathyroid
+hormone
+(
+PTH
+)
+to
+improve
+bone
+quality
+in
+ovariectomized
+OVX
+rats
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+2001
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+Gap69C
+is
+a
+single
+-
+copy
+gene
+producing
+a
+major
+2
+.
+1
+-
+kb
+mRNA
+throughout
+development
+,
+but
+its
+amount
+is
+decreased
+in
+larvae
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+the
+long
+term
+,
+questions
+still
+remain
+about
+whether
+pre
+-
+dialysis
+rHu
+EPO
+either
+speeds
+up
+or
+delays
+the
+onset
+of
+dialysis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+validity
+of
+the
+FPS
+-
+R
+was
+further
+supported
+by
+strong
+positive
+correlations
+with
+the
+VAS
+(
+r
+=
+0
+.
+92
+,
+N
+=
+45
+)
+and
+the
+CAS
+(
+r
+=
+0
+.
+84
+,
+N
+=
+45
+)
+in
+this
+clinical
+sample
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+BFA
+System
+reads
+a
+text
+file
+with
+flows
+,
+measured
+with
+fluorescent
+microsphere
+technique
+,
+and
+constructs
+the
+lung
+anatomy
+with
+volumetric
+pixels
+showing
+the
+flows
+with
+a
+color
+schema
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Therefore
+,
+to
+understand
+how
+ErbB1
+/
+ErbB2
+signaling
+contributes
+to
+this
+process
+,
+we
+used
+the
+ErbB
+kinase
+inhibitor
+AG1478in
+ErbB2
+-
+dependent
+BT
+-
+474
+and
+SKBR
+-
+3
+human
+breast
+cancer
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Deletion
+analyses
+implicate
+the
+N
+-
+terminal
+110
+amino
+acids
+of
+Grb14
+and
+ankyrin
+repeats
+10
+-
+19
+of
+tankyrase
+2
+in
+mediating
+this
+interaction
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hormonal
+regulation
+of
+multiple
+promoters
+of
+the
+rat
+mitochondrial
+glycerol
+-
+3
+-
+phosphate
+dehydrogenase
+gene
+:
+identification
+of
+a
+complex
+hormone
+-
+response
+element
+in
+the
+ubiquitous
+promoter
+B
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SAMPLE
+POPULATION
+:
+MCB
+from
+7
+racing
+Greyhounds
+euthanatized
+for
+reasons
+unrelated
+to
+MCB
+abnormalities
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Structural
+studies
+have
+shown
+that
+class
+I
+major
+histocompatibility
+complex
+(
+MHC
+)-
+restricted
+peptide
+-
+specific
+T
+cell
+receptor
+(
+TCR
+)-
+alpha
+/
+betas
+make
+multiple
+contacts
+with
+the
+alpha1
+and
+alpha2
+helices
+of
+the
+MHC
+,
+but
+it
+is
+unclear
+which
+or
+how
+many
+of
+these
+interactions
+contribute
+to
+functional
+binding
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Fans
+in
+tunnels
+and
+open
+windows
+at
+aboveground
+locations
+appeared
+to
+greatly
+reduce
+the
+likelihood
+of
+high
+PH3
+concentrations
+in
+enclosed
+areas
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+DNA
+strand
+exchange
+reactions
+using
+oligonucleotides
+,
+we
+found
+that
+Rec2
+exhibited
+a
+pairing
+bias
+that
+is
+opposite
+that
+of
+RecA
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+major
+mechanism
+by
+which
+estrogens
+prevent
+osteoporosis
+seems
+to
+be
+repression
+of
+transcription
+of
+NF
+-
+kappa
+B
+target
+genes
+,
+such
+as
+the
+osteoclast
+-
+activating
+cytokines
+interleukin
+-
+6
+and
+interleukin
+-
+1
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Linear
+eight
+-
+or
+nine
+-
+residue
+D
+-
+peptides
+derived
+from
+the
+pocket
+-
+binding
+domain
+of
+the
+cyclic
+molecules
+also
+bind
+specifically
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+As
+expected
+,
+homologous
+loxP
+sequences
+efficiently
+underwent
+Cre
+-
+mediated
+recombination
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Multistage
+models
+and
+the
+A
+-
+bomb
+survivor
+data
+:
+implications
+for
+carcinogenic
+mechanisms
+?
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+results
+indicate
+that
+a
+more
+differentiated
+diagnosis
+of
+the
+molar
+relationship
+will
+allow
+for
+a
+more
+causally
+directed
+correction
+of
+Class
+II
+molar
+relationship
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+It
+is
+surprising
+that
+dnaE173
+,
+a
+potent
+mutator
+mutation
+specific
+for
+sequence
+substitution
+as
+well
+as
+single
+-
+base
+frameshift
+,
+did
+not
+enhance
+the
+frequency
+of
+the
+hot
+-
+spot
+frameshift
+mutation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hypercalcemia
+associated
+with
+elevated
+serum
+PTH
+concentration
+indicating
+primary
+hyperparathyroidism
+was
+found
+in
+7
+BC
+patients
+(
+7
+%)
+and
+in
+none
+of
+healthy
+women
+or
+patients
+with
+thyroid
+cancer
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+[
+figure
+:
+see
+text
+]
+The
+Stille
+coupling
+reaction
+has
+been
+performed
+in
+1
+-
+butyl
+-
+3
+-
+methylimidazolium
+tetrafluoroborate
+(
+BMIM
+BF4
+),
+a
+room
+-
+temperature
+ionic
+liquid
+(
+RTIL
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Examination
+of
+various
+promoter
+deletion
+mutants
+indicated
+that
+SF
+-
+1
+acts
+through
+the
+proximal
+promoter
+region
+and
+upstream
+promoter
+sequences
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+ORF1
+(
+1029
+bp
+;
+EMBL
+databank
+,
+Accession
+No
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Vector
+stocks
+containing
+envelope
+proteins
+from
+three
+different
+SIVmac
+clones
+,
+namely
+,
+SIVmac239
+(
+T
+-
+lymphocyte
+tropic
+[
+T
+-
+tropic
+]),
+SIVmac316
+(
+macrophage
+tropic
+[
+M
+-
+tropic
+]),
+and
+SIVmac1A11
+(
+dualtropic
+),
+were
+tested
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+ISS
+and
+the
+acute
+physiology
+and
+chronic
+health
+evaluation
+(
+APACHE
+II
+)
+calculated
+on
+admission
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Ga
+-
+67
+and
+Tl
+-
+201
+scintigraphy
+in
+extramedullary
+plasmacytoma
+:
+a
+case
+report
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Finally
+,
+there
+are
+a
+growing
+number
+of
+arguments
+favouring
+the
+use
+of
+ACE
+inhibitors
+very
+early
+in
+patients
+with
+diabetes
+mellitus
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+paper
+describes
+the
+results
+of
+an
+initial
+study
+on
+the
+application
+of
+linear
+solvation
+energy
+relationships
+(
+LSERs
+)
+to
+the
+prediction
+of
+internal
+standard
+compounds
+in
+reversed
+-
+phase
+liquid
+chromatographic
+(
+RPLC
+)
+method
+development
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+38
+-
+year
+-
+old
+woman
+with
+ulcerative
+colitis
+subsequently
+developed
+sarcoidosis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Blood
+from
+dams
+was
+collected
+prior
+to
+inoculation
+and
+at
+time
+of
+necropsy
+for
+measurement
+of
+IgM
+and
+IgG
+antibodies
+to
+M
+.
+pulmonis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+She
+has
+since
+developed
+a
+positive
+anti
+-
+cardiolipin
+antibody
+but
+does
+not
+meet
+diagnostic
+criteria
+for
+systemic
+lupus
+erythematosis
+.
+CONCLUSION
+:
+The
+presence
+of
+known
+autoimmune
+disease
+in
+a
+woman
+with
+POF
+should
+not
+dissuade
+the
+clinician
+from
+evaluating
+for
+a
+potential
+genetic
+cause
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+mutation
+experiments
+showed
+that
+the
+most
+critical
+sequence
+for
+the
+repression
+of
+PTH
+was
+5
+'-
+GGGGGAGGGGAG
+-
+3
+'
+(+
+1
+to
++
+12
+)
+of
+PTHSR
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Thus
+,
+while
+the
+folds
+of
+all
+Myb
+domains
+resemble
+each
+other
+closely
+,
+the
+function
+of
+each
+Myb
+domain
+depends
+on
+the
+amino
+acid
+residues
+that
+are
+located
+on
+the
+surface
+of
+each
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+cDNA
+clone
+encoding
+C2H2
+-
+type
+zinc
+finger
+protein
+,
+SCOF
+-
+1
+,
+was
+isolated
+from
+soybean
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+purpose
+of
+this
+study
+was
+to
+evaluate
+simplified
+methods
+for
+estimation
+of
+Technetium
+Tc
+99m
+(
+99mTc
+)-
+pentetate
+and
+orthoiodohippurate
+I
+131
+(
+131I
+-
+OIH
+)
+plasma
+clearance
+in
+dogs
+and
+cats
+with
+1
+and
+2
+blood
+samples
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sevelamer
+hydrochloride
+(
+Renagel
+)
+is
+a
+nonabsorbed
+phosphate
+-
+binding
+polymer
+marketed
+for
+the
+treatment
+of
+hyperphosphatemia
+in
+adult
+patients
+receiving
+hemodialysis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Using
+a
+novel
+method
+combining
+chromatin
+immunoprecipitation
+and
+genomic
+array
+hybridization
+,
+we
+have
+identified
+a
+460
+-
+kb
+CENP
+-
+A
+-
+binding
+DNA
+domain
+of
+a
+neocentromere
+derived
+from
+the
+20p12
+region
+of
+an
+invdup
+(
+20p
+)
+human
+marker
+chromosome
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cases
+of
+lung
+cancer
+with
+intramedullary
+metastasis
+are
+rare
+,
+especially
+those
+diagnosed
+before
+death
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Direct
+current
+polarography
+and
+differential
+pulse
+polarographic
+methods
+have
+been
+developed
+for
+the
+qualitative
+as
+well
+as
+quantitative
+analysis
+of
+vitamin
+B1
+,
+B2
+and
+B6
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Fluorimetric
+determination
+of
+methylmercury
+as
+an
+ion
+-
+association
+complex
+with
+rhodamine
+B
+in
+the
+presence
+of
+iodide
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+corresponding
+genotype
+was
+determined
+with
+a
+restriction
+enzyme
+-
+based
+assay
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Patients
+were
+divided
+into
+two
+group
+;
+Control
+group
+A
+in
+which
+a
+hot
+-
+water
+circulating
+system
+was
+used
+and
+group
+B
+in
+which
+a
+transtracheal
+heating
+and
+humidification
+system
+by
+ANAMED
+HUMITUBE
+was
+used
+,
+during
+gastric
+cancer
+operation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Mental
+rotation
+of
+paired
+figures
+engendered
+activation
+in
+the
+left
+superior
+parietal
+lobule
+and
+the
+right
+frontal
+medial
+gyrus
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+demonstrate
+that
+the
+Ras
+-
+activated
+Raf
+-
+MEK
+-
+extracellular
+signal
+-
+regulated
+kinase
+(
+ERK
+)
+signaling
+pathway
+can
+specifically
+control
+the
+expression
+of
+individual
+integrin
+subunits
+in
+a
+variety
+of
+human
+and
+mouse
+cell
+lines
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+TxRE
+contain
+cyclic
+AMP
+-
+responsive
+elements
+(
+CRE
+),
+but
+,
+remarkably
+,
+the
+"
+TGACGTCA
+"
+consensus
+is
+never
+strictly
+conserved
+in
+any
+viral
+strain
+(
+e
+.
+g
+.,
+AGACGTCA
+,
+TGACGGCA
+,
+TGACCTCA
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+hatcher
+incubators
+of
+both
+companies
+were
+also
+persistently
+contaminated
+with
+Salmonella
+livingstone
+and
+Salmonella
+thomasville
+in
+company
+A
+and
+with
+Salmonella
+senftenberg
+in
+company
+B
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Binding
+of
+cell
+type
+-
+specific
+nuclear
+proteins
+to
+the
+5
+'-
+flanking
+region
+of
+maize
+C4
+phosphoenolpyruvate
+carboxylase
+gene
+confers
+its
+differential
+transcription
+in
+mesophyll
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Susceptibility
+to
+ischemia
+-
+induced
+arrhythmias
+was
+lower
+in
+1
+-
+week
+diabetics
+:
+only
+42
+%
+of
+diabetic
+hearts
+exhibited
+ventricular
+tachycardia
+(
+VT
+)
+and
+16
+%
+had
+short
+episodes
+of
+ventricular
+fibrillation
+(
+VF
+)
+as
+compared
+to
+VT
+100
+%
+and
+VF
+70
+%
+(
+including
+sustained
+VF
+36
+%)
+in
+the
+non
+-
+diabetics
+(
+P
+<
+0
+.
+05
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+CONCLUSIONS
+:
+The
+methodology
+of
+LHR
+measurement
+significantly
+influences
+the
+clinical
+contribution
+of
+Tl
+-
+201
+lung
+uptake
+evaluation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+authors
+made
+an
+analysis
+of
+social
+-
+economical
+conditions
+limiting
+the
+possibilities
+of
+rendering
+cardiosurgical
+care
+to
+children
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+METHODS
+:
+Experiments
+testing
+the
+new
+catheter
+and
+comparing
+it
+to
+the
+existing
+catheter
+included
+:
+(
+1
+)
+measurement
+of
+the
+laser
+output
+beam
+sizes
+and
+divergences
+;
+(
+2
+)
+evaluation
+of
+particulate
+matter
+generation
+during
+ablation
+of
+atherosclerotic
+tissue
+;
+(
+3
+)
+measurement
+of
+ablation
+hole
+sizes
+and
+tissue
+penetration
+rates
+;
+(
+4
+)
+histopathologic
+examination
+of
+laser
+-
+induced
+in
+vivo
+vessel
+wall
+injury
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+reproductive
+effects
+of
+the
+administration
+of
+4
+-
+chloro
+-
+2
+-
+methylphenoxyacetic
+acid
+(
+MCPA
+)
+to
+rats
+were
+evaluated
+through
+two
+generations
+,
+from
+prior
+to
+mating
+,
+throughout
+mating
+,
+to
+gestation
+and
+lactation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+suggest
+that
+uvrA
+and
+the
+nucleotide
+excision
+repair
+pathway
+are
+involved
+in
+the
+repair
+of
+acid
+-
+induced
+DNA
+damage
+and
+are
+associated
+with
+successful
+adaptation
+of
+S
+.
+mutans
+to
+low
+pH
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+improved
+CSF
+outflow
+conductance
+may
+increase
+the
+intracranial
+compliance
+and
+thereby
+dampen
+a
+pathological
+ICP
+waveform
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+These
+studies
+demonstrate
+that
+site
+-
+specific
+recognition
+of
+the
+bxd
+PRE
+by
+d
+(
+GA
+)(
+n
+)
+repeat
+binding
+activities
+mediates
+PcG
+-
+dependent
+silencing
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+gonadotrope
+-
+specific
+and
+regulated
+expression
+of
+the
+GnRH
+receptor
+(
+GnRH
+-
+R
+)
+gene
+is
+dependent
+on
+multiple
+transcription
+factors
+that
+interact
+with
+the
+noncanonical
+GnRH
+-
+R
+activating
+sequence
+(
+GRAS
+),
+the
+activator
+protein
+-
+1
+(
+AP
+-
+1
+)
+element
+,
+and
+the
+steroidogenic
+factor
+-
+1
+(
+SF
+-
+1
+)
+binding
+site
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Before
+PO3
+administration
+,
+more
+than
+half
+(
+57
+.
+4
+%)
+of
+the
+patients
+received
+only
+1
+or
+2
+antituberculous
+drugs
+(
+ethambutole
+and
+ethionamide
+or
+ethambutole
+and
+oprofloxacin
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Using
+the
+presented
+categorical
+structure
+as
+domain
+model
+a
+prototype
+DSS
+for
+dipslide
+urine
+cultures
+has
+been
+developed
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Conclusion
+:
+The
+Lp
+(
+a
+)
+levels
+in
+these
+children
+were
+the
+lower
+ever
+reported
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Foxp1
+and
+Foxp2
+are
+expressed
+at
+high
+levels
+in
+the
+lung
+as
+early
+as
+E12
+.
+5
+of
+mouse
+development
+with
+Foxp2
+expression
+restricted
+to
+the
+airway
+epithelium
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Audiological
+findings
+in
+pregnancy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Children
+who
+developed
+lower
+respiratory
+tract
+infections
+or
+PCP
+had
+increased
+rates
+of
+decline
+of
+CD4
+cell
+counts
+during
+the
+first
+6
+months
+of
+life
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+randomized
+mix
+of
+180
+sections
+(
+10
+samples
+x
+3
+tissues
+x
+3
+stains
+x
+2
+)
+gave
+90
+matched
+pairs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sural
+nerve
+biopsy
+showed
+mild
+thickening
+of
+the
+perineurium
+,
+vascular
+alterations
+with
+inflammatory
+cell
+infiltration
+in
+the
+perineurium
+,
+and
+remarkable
+loss
+of
+large
+and
+small
+myelinated
+fibers
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+OBJECTIVES
+:
+The
+objective
+of
+this
+review
+was
+to
+assess
+the
+effects
+of
+prophylactic
+prostaglandin
+use
+in
+the
+third
+stage
+of
+labour
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Testing
+was
+associated
+with
+a
+history
+of
+nonsexual
+risk
+behavior
+,
+increased
+knowledge
+of
+the
+hepatitis
+C
+virus
+,
+and
+healthcare
+provider
+communication
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Cytomegalovirus
+,
+Chlamydia
+pneumoniae
+,
+and
+Helicobacter
+pylori
+IgG
+antibodies
+and
+restenosis
+after
+stent
+implantation
+:
+an
+angiographic
+and
+intravascular
+ultrasound
+study
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+5
+-
+month
+-
+old
+infant
+with
+persistent
+congenital
+stridor
+and
+acute
+respiratory
+distress
+is
+presented
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+OBJECTIVE
+:
+To
+determine
+whether
+RSTD
+predicts
+coronary
+anatomy
+during
+acute
+coronary
+occlusion
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Even
+if
+the
+electrocardiographic
+signs
+are
+subdued
+,
+the
+underlying
+blockade
+of
+I
+(
+Kr
+)
+current
+may
+precipitate
+the
+occurrence
+of
+arrhythmia
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Acetoin
+can
+be
+reused
+by
+the
+bacteria
+during
+stationary
+phase
+when
+other
+carbon
+sources
+have
+been
+depleted
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Analysis
+of
+the
+promoter
+sequence
+revealed
+the
+presence
+of
+a
+major
+transcriptional
+start
+site
+,
+a
+canonical
+TATA
+box
+and
+putative
+cis
+regulatory
+elements
+for
+pituitary
+specific
+expression
+as
+well
+as
+an
+E
+-
+responsive
+element
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+IL
+-
+1beta
+was
+significantly
+higher
+in
+endometrioma
+than
+in
+lesions
+of
+other
+localizations
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+An
+economic
+analysis
+using
+West
+of
+Scotland
+Coronary
+Prevention
+Study
+(
+WOSCOPS
+)
+findings
+indicates
+that
+statin
+treatment
+would
+have
+prevented
+318
+events
+per
+10
+,
+000
+patients
+in
+a
+population
+similar
+to
+that
+in
+WOSCOPS
+(
+average
+1
+.
+5
+%
+annual
+risk
+of
+a
+cardiovascular
+event
+)
+at
+a
+discounted
+cost
+per
+life
+-
+year
+gained
+of
+20
+,
+375
+pounds
+($
+31
+,
+818
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Hydrogels
+for
+tissue
+engineering
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+No
+mutation
+of
+the
+NRL
+gene
+was
+found
+in
+any
+of
+the
+two
+families
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+However
+,
+most
+produced
+significant
+alteration
+of
+small
+intestinal
+permeability
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Our
+results
+show
+that
+CVN
+specifically
+recognizes
+with
+nanomolar
+affinity
+Man
+(
+9
+)
+GlcNAc
+(
+2
+)
+and
+the
+D1D3
+isomer
+of
+Man
+(
+8
+)
+GlcNAc
+(
+2
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Saccharomyces
+cerevisiae
+activates
+a
+regulatory
+network
+called
+"
+general
+control
+"
+that
+provides
+the
+cell
+with
+sufficient
+amounts
+of
+protein
+precursors
+during
+amino
+acid
+starvation
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+Saccharomyces
+cerevisiae
+,
+entry
+into
+mitosis
+requires
+activation
+of
+the
+cyclin
+-
+dependent
+kinase
+Cdc28
+in
+its
+cyclin
+B
+(
+Clb
+)-
+associated
+form
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Data
+from
+in
+vitro
+splicing
+assays
+,
+UV
+crosslinking
+and
+RNA
+-
+binding
+competition
+experiments
+indicates
+a
+strong
+correlation
+between
+the
+binding
+affinities
+of
+PSI
+for
+the
+SELEX
+sequences
+and
+their
+ability
+to
+modulate
+splicing
+of
+P
+element
+IVS3
+in
+vitro
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+sensitivity
+of
+human
+neuroblastoma
+cells
+SK
+-
+N
+-
+SH
+to
+undergo
+apoptosis
+induced
+by
+thapsigargin
+was
+examined
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+.,
+Slatkin
+,
+D
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Multiparous
+women
+presented
+higher
+BMI
+(
+P
+=
+0
+.
+01
+)
+and
+PBF
+(
+P
+=
+0
+.
+03
+)
+compared
+with
+primi
+-
+and
+nulliparous
+groups
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+CONCLUSIONS
+AND
+CLINICAL
+RELEVANCE
+:
+Increased
+cortical
+thickness
+and
+geometric
+properties
+of
+left
+MCB
+-
+IV
+and
+-
+V
+of
+Greyhounds
+,
+together
+with
+altered
+turnover
+and
+orientation
+of
+osteons
+in
+the
+dorsal
+quadrants
+of
+left
+MCB
+,
+are
+site
+-
+specific
+adaptive
+responses
+associated
+with
+asymmetric
+cyclic
+loading
+as
+a
+result
+of
+racing
+on
+circular
+tracks
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+To
+examine
+transcriptional
+regulation
+of
+the
+rat
+eIF4E
+gene
+,
+2
+.
+1
+kB
+of
+the
+rat
+eIF4E
+promoter
+region
+was
+cloned
+and
+the
+contribution
+of
+specific
+elements
+in
+regulating
+transcription
+was
+determined
+in
+primary
+cultures
+of
+rat
+cardiocytes
+and
+in
+a
+murine
+C
+(
+2
+)
+C
+(
+12
+)
+myoblast
+cell
+line
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+prevalence
+of
+tobacco
+dependence
+diagnosed
+according
+to
+the
+ICD
+-
+10
+criteria
+was
+higher
+in
+alcohol
+-
+dependent
+individuals
+(
+58
+.
+1
+%)
+than
+in
+nondrinkers
+or
+social
+drinkers
+(
+12
+.
+8
+%).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Management
+of
+postvitrectomy
+diabetic
+vitreous
+hemorrhage
+with
+tissue
+plasminogen
+activator
+(
+t
+-
+PA
+)
+and
+volume
+homeostatic
+fluid
+-
+fluid
+exchanger
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Transactivation
+of
+oIFNtau
+enhancer
+-
+reporter
+constructs
+was
+primarily
+regulated
+by
+three
+regions
+containing
+AP
+-
+1
+site
+,
+GATA
+like
+sequence
+and
+site
+(
+s
+)
+unidentified
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SELECTION
+CRITERIA
+:
+Randomised
+controlled
+trials
+of
+cabergoline
+versus
+placebo
+in
+patients
+with
+a
+clinical
+diagnosis
+of
+idiopathic
+Parkinson
+'
+s
+disease
+and
+long
+-
+term
+complications
+of
+levodopa
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+0
+%)
+and
+IL
+-
+12
+(
+42
+.
+6
+%
+vs
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Copyright
+2000
+John
+Wiley
+&
+Sons
+,
+Ltd
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Here
+we
+demonstrate
+that
+native
+MRCK
+exists
+in
+high
+-
+molecular
+-
+weight
+complexes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+METHODS
+:
+This
+retrospective
+review
+comprised
+2711
+eyes
+that
+had
+LASIK
+between
+September
+1996
+and
+September
+1999
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Sixty
+-
+one
+cases
+of
+cholera
+,
+all
+caused
+by
+V
+.
+cholerae
+O1
+,
+were
+reported
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+This
+could
+lead
+to
+subsequent
+outbreaks
+if
+Babesia
+carrier
+animals
+were
+to
+be
+introduced
+into
+the
+herd
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Instead
+,
+TRPS1
+potently
+and
+specifically
+represses
+transcriptional
+activation
+mediated
+by
+other
+GATA
+factors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Eliminating
+any
+subset
+of
+ASCUS
+reduces
+the
+ASCUS
+/
+SIL
+ratio
+but
+also
+significantly
+diminishes
+the
+sensitivity
+of
+the
+Papanicolaou
+test
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+order
+to
+overcome
+the
+false
+positive
+readings
+that
+are
+possible
+in
+sphincter
+manometry
+,
+we
+proposed
+to
+use
+secretin
+stimulated
+endoscopic
+ultrasound
+(
+SSEUS
+)
+to
+measure
+pancreatic
+ductal
+response
+as
+an
+adjunctive
+method
+to
+aid
+and
+supplement
+the
+diagnosis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Endovascular
+aneurysm
+repair
+with
+the
+AneuRx
+stent
+-
+graft
+is
+safe
+,
+but
+is
+it
+effective
+?
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+difference
+of
+hardness
+over
+time
+of
+composite
+specimens
+was
+measured
+using
+Knoop
+hardness
+measurements
+taken
+at
+the
+top
+and
+bottom
+surfaces
+of
+resin
+specimens
+made
+in
+a
+Teflon
+mold
+the
+same
+dimensions
+as
+the
+cavity
+prepared
+in
+dentin
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Implications
+in
+biomonitoring
+of
+the
+observed
+accumulation
+patterns
+,
+especially
+in
+the
+different
+tissues
+of
+Posidonia
+oceanica
+,
+are
+discussed
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Based
+on
+mutational
+data
+and
+possible
+mRNA
+structure
+,
+we
+hypothesized
+about
+the
+effect
+of
+mRNA
+structure
+on
+translation
+of
+the
+two
+major
+C
+/
+EBPepsilon
+isoforms
+:
+p32
+and
+p30
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Retinoids
+participate
+in
+the
+onset
+of
+differentiation
+,
+apoptosis
+and
+the
+inhibition
+of
+growth
+in
+a
+wide
+variety
+of
+normal
+and
+cancerous
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+conclude
+that
+RPMS
+acts
+as
+a
+negative
+regulator
+of
+EBNA2
+and
+Notch
+activity
+through
+its
+interactions
+with
+the
+CBF1
+-
+associated
+corepressor
+complex
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Isolated
+Systolic
+Hypertension
+:
+An
+Update
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Transfection
+of
+EGFP
+-
+tagged
+DENTT
+NLS
+deletion
+constructs
+lacking
+the
+bipartite
+NLS
+-
+1
+were
+excluded
+from
+the
+nucleolus
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+VE
+-
+DEF
+animals
+had
+significantly
+higher
+(
+p
+<
+0
+.
+05
+)
+levels
+of
+myocardial
+lipid
+peroxidation
+and
+lower
+(
+p
+<
+0
+.
+05
+)
+protein
+thiols
+following
+I
+-
+R
+compared
+to
+the
+CON
+animals
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+position
+of
+the
+analyst
+as
+expert
+:
+yesterday
+and
+today
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Furthermore
+,
+we
+showed
+that
+ERSF
+including
+NF
+-
+Y
+and
+ATF6alpha
+and
+/
+or
+beta
+and
+capable
+of
+binding
+to
+ERSE
+is
+indeed
+formed
+when
+the
+cellular
+UPR
+is
+activated
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+performed
+the
+present
+study
+to
+clarify
+the
+relationship
+between
+the
+DOX
+binding
+ability
+(%
+DB
+)
+and
+the
+histologic
+response
+,
+rate
+of
+decrease
+in
+tumor
+volume
+of
+malignant
+soft
+tissue
+tumors
+after
+preoperative
+chemotherapy
+and
+prognosis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+have
+also
+isolated
+and
+analyzed
+the
+5
+'
+flanking
+region
+of
+the
+pea
+33RNP
+gene
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+We
+have
+previously
+shown
+that
+the
+adenoviral
+12S
+E1A
+protein
+modulates
+the
+phosphorylation
+status
+of
+p130
+and
+p107
+without
+apparent
+changes
+in
+the
+cell
+cycle
+dependent
+phosphorylation
+of
+the
+retinoblastoma
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Baseline
+MBF
+in
+females
+was
+significantly
+(
+P
+<
+0
+.
+001
+)
+higher
+than
+in
+males
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Only
+nine
+patients
+were
+offered
+surgery
+(
+six
+were
+resected
+and
+three
+were
+found
+inoperable
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+deubiquitinating
+enzyme
+DUB
+-
+2
+is
+induced
+in
+response
+to
+IL
+-
+2
+but
+as
+yet
+its
+function
+has
+not
+been
+determined
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+split
+motor
+domain
+in
+a
+cytoplasmic
+dynein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Immunological
+and
+biochemical
+characterization
+of
+streptococcal
+pyrogenic
+exotoxins
+I
+and
+J
+(
+SPE
+-
+I
+and
+SPE
+-
+J
+)
+from
+Streptococcus
+pyogenes
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Five
+modalities
+of
+nonpharmacologic
+approaches
+are
+recommended
+at
+present
+for
+lifestyle
+modification
+and
+control
+of
+arterial
+blood
+pressure
+elevation
+:
+1
+)
+weight
+reduction
+to
+ideal
+body
+weight
+,
+since
+it
+reduces
+risk
+of
+hypertension
+as
+well
+as
+overall
+cardiovascular
+morbidity
+and
+mortality
+;
+2
+)
+dietary
+sodium
+restriction
+to
+less
+than
+2
+g
+a
+day
+,
+without
+assurance
+that
+it
+will
+normalize
+arterial
+pressure
+although
+it
+may
+help
+reduce
+dosage
+and
+numbers
+of
+prescribed
+antihypertensive
+drugs
+;
+3
+)
+moderation
+of
+alcohol
+consumption
+to
+less
+than
+1
+ounce
+a
+day
+;
+4
+)
+a
+regular
+isotonic
+exercise
+program
+;
+and
+5
+)
+cessation
+of
+tobacco
+consumption
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Descriptions
+of
+this
+locus
+would
+allow
+comparison
+with
+functionally
+relevant
+molecular
+genetic
+features
+of
+other
+species
+'
+homologous
+loci
+including
+the
+single
+-
+copy
+equid
+LH
+/
+CGbeta
+gene
+and
+the
+primate
+LHbeta
+-
+CGbeta
+gene
+cluster
+locus
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+METHODS
+:
+One
+hundred
+fourteen
+consecutive
+patients
+(
+mean
+age
+61
+years
+)
+with
+focal
+pancreatic
+masses
+,
+detected
+on
+CT
+,
+underwent
+EUS
+-
+FNA
+by
+using
+a
+linear
+-
+array
+echoendoscope
+and
+22
+-
+gauge
+needles
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+effects
+of
+chlordiazepoxide
+(
+2
+.
+5
+-
+15
+.
+0mg
+/
+kg
+),
+a
+full
+benzodiazepine
+receptor
+agonist
+,
+and
+bretazenil
+(
+5
+.
+0
+-
+30
+.
+0mg
+/
+kg
+),
+a
+partial
+benzodiazepine
+receptor
+agonist
+,
+were
+examined
+in
+the
+murine
+elevated
+plus
+-
+maze
+paradigm
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Acute
+effects
+of
+LI
+160
+(
+extract
+of
+Hypericum
+perforatum
+,
+St
+John
+'
+s
+wort
+)
+and
+two
+of
+its
+constituents
+on
+neuroendocrine
+responses
+in
+the
+rat
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Guidelines
+for
+performing
+a
+routine
+spiral
+assay
+are
+presented
+,
+and
+alternative
+test
+methods
+intended
+to
+overcome
+a
+variety
+of
+technical
+difficulties
+(
+such
+as
+restricted
+sample
+availability
+,
+sample
+viscosity
+or
+volatility
+,
+etc
+.)
+are
+recommended
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+An
+additional
+9
+patients
+achieved
+normal
+levels
+with
+adjunctive
+drug
+therapy
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Anti
+-
+nucleolin
+mAb
+was
+used
+to
+confirm
+the
+antigenic
+properties
+of
+this
+p95
+component
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Eliminating
+any
+subset
+of
+ASCUS
+reduces
+the
+ASCUS
+/
+SIL
+ratio
+but
+also
+significantly
+diminishes
+the
+sensitivity
+of
+the
+Papanicolaou
+test
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Prrp
+can
+also
+associate
+with
+the
+EVH1
+domain
+of
+Mena
+,
+another
+microfilament
+-
+associated
+protein
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Experience
+with
+xylene
+-
+free
+sections
+since
+1995
+at
+the
+Vrinnevi
+Hospital
+is
+favorable
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Acquired
+antithrombin
+deficiency
+in
+sepsis
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SIP1
+(
+Smad
+interacting
+protein
+1
+)
+and
+deltaEF1
+(
+delta
+-
+crystallin
+enhancer
+binding
+factor
+)
+are
+structurally
+similar
+transcriptional
+repressors
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+SERS
+spectra
+were
+obtained
+by
+vacuum
+evaporation
+and
+casting
+of
+p
+-
+NTP
+onto
+silver
+island
+films
+,
+and
+also
+from
+colloidal
+silver
+solutions
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+moduli
+of
+elasticity
+of
+the
+gray
+and
+white
+matter
+were
+3
+.
+4
++/-
+1
+.
+4
+kPa
+(
+mean
++/-
+standard
+deviation
+)
+and
+3
+.
+4
++/-
+0
+.
+9
+kPa
+in
+the
+axial
+section
+,
+3
++/-
+0
+.
+3
+kPa
+and
+3
+.
+5
++/-
+0
+.
+5
+kPa
+in
+the
+frontal
+section
+,
+and
+3
+.
+5
++/-
+0
+.
+9
+kPa
+and
+2
+.
+8
++/-
+0
+.
+4
+kPa
+in
+the
+sagittal
+section
+,
+respectively
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+[
+Clinical
+and
+epidemiological
+characteristics
+of
+squamous
+cell
+carcinoma
+of
+the
+oral
+cavity
+in
+women
+]
+BACKGROUND
+:
+Squamous
+cell
+carcinoma
+(
+SCC
+)
+of
+the
+oral
+cavity
+occurs
+mainly
+in
+the
+male
+population
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+core
+promoter
+of
+human
+thioredoxin
+reductase
+1
+:
+cloning
+,
+transcriptional
+activity
+,
+and
+Oct
+-
+1
+,
+Sp1
+,
+and
+Sp3
+binding
+reveal
+a
+housekeeping
+-
+type
+promoter
+for
+the
+AU
+-
+rich
+element
+-
+regulated
+gene
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Phase
+II
+trial
+of
+the
+anti
+-
+G
+(
+D2
+)
+monoclonal
+antibody
+3F8
+and
+granulocyte
+-
+macrophage
+colony
+-
+stimulating
+factor
+for
+neuroblastoma
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+log
+-
+linear
+dose
+-
+response
+was
+obtained
+for
+the
+average
+increase
+in
+FEV1
+up
+to
+6
+h
+(
+AUC0
+-
+6
+h
+)
+and
+peak
+FEV1
+across
+the
+dose
+range
+administered
+by
+Respimat
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Plasma
+DHE
+concentration
+rose
+promptly
+above
+5
+ng
+/
+ml
+after
+the
+application
+of
+the
+PSA
+tape
+onto
+the
+damaged
+skin
+in
+hairless
+rat
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+A
+complete
+drug
+history
+was
+compiled
+,
+specifying
+the
+amount
+and
+duration
+of
+VGB
+medication
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Epithelial
+cytotoxicity
+of
+combined
+antibiotics
+was
+additive
+,
+with
+no
+evidence
+of
+competition
+or
+synergism
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+In
+Cd
+-
+spiked
+OECD
+soil
+,
+internal
+Cd
+levels
+were
+linearly
+related
+to
+external
+Cd
+concentrations
+,
+whereas
+the
+springtails
+maintained
+fixed
+internal
+levels
+of
+Cu
+and
+Zn
+regardless
+of
+spiked
+concentrations
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Interestingly
+,
+the
+similarities
+with
+the
+endophilin
+proteins
+cover
+the
+entire
+sequence
+of
+the
+SH3GLB
+family
+,
+suggesting
+a
+common
+fold
+and
+presumably
+a
+common
+mode
+of
+action
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Reovirus
+mRNAs
+are
+efficiently
+translated
+within
+host
+cells
+despite
+the
+absence
+of
+3
+'
+polyadenylated
+tails
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Grippers
+with
+integrated
+piezoresistive
+force
+sensors
+and
+with
+attached
+strain
+gauges
+have
+been
+reported
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Both
+Z
+and
+R
+expression
+resulted
+in
+PML
+dispersion
+in
+EBV
+-
+positive
+cells
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+small
+copepod
+Pseudonychocamptus
+proximus
+progressively
+replaced
+the
+large
+Tisbe
+furcata
+in
+sand
+filters
+during
+the
+fall
+of
+1995
+and
+was
+responsible
+for
+the
+large
+increase
+in
+meiofaunal
+biomass
+observed
+after
+spring
+1996
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Evidence
+-
+based
+care
+:
+a
+new
+formula
+for
+an
+old
+problem
+?
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Nrf2
+regulates
+expression
+of
+genes
+encoding
+enzymes
+with
+antioxidant
+(
+e
+.
+g
+.
+heme
+oxygenase
+-
+1
+(
+HO
+-
+1
+))
+or
+xenobiotic
+detoxification
+(
+e
+.
+g
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Workload
+,
+UAPs
+,
+and
+you
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+RESULTS
+:
+At
+latest
+examination
+,
+mean
+UPDRS
+II
+and
+III
+scores
+had
+improved
+by
+30
+%
+(
+on
+stimulation
+,
+off
+therapy
+)
+with
+mean
+50
+%
+reduction
+in
+daily
+off
+time
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Perfusion
+technique
+for
+perfusion
+-
+assisted
+direct
+coronary
+artery
+bypass
+(
+PADCAB
+).
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+Copyright
+2001
+Academic
+Press
+.
+<stop>	<stop>
+<post>	<post>
+<pre>	<pre>
+<start>	<start>
+The
+amount
+of
+drained
+effusion
+was
+measured
+,
+and
+fluid
+was
+sent
+for
+diagnostic
+assessment
+.
+<stop>	<stop>
+<post>	<post>

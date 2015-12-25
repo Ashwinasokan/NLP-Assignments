@@ -1,0 +1,2 @@
+falseReviewWords.extend(set(stem(" ".join(line.lower().split()[1:]))))
+

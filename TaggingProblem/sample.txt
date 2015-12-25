@@ -1,0 +1,53 @@
+<start>	<start>
+BACKGROUND
+:
+Ischemic
+heart
+disease
+is
+the
+primary
+cause
+of
+morbidity
+and
+mortality
+among
+diabetics
+,
+especially
+those
+who
+became
+ill
+at
+a
+young
+age
+.
+<stop>	<stop>
+<start>	<start>
+More
+importantly
+,
+this
+fusion
+converted
+a
+less
+effective
+vaccine
+into
+one
+with
+significant
+potency
+against
+established
+E7
+-
+expressing
+metastatic
+tumors
+.
+<stop>	<stop>

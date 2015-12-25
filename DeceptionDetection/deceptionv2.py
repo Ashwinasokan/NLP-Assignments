@@ -6,14 +6,14 @@ import random
 ps = porter.PorterStemmer()
 
 
-def stem(lines):
+def stem(lines,sentiment):
     result = []
     sentences = re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", lines)
     for sentence in sentences:
         ws = sentence.split()
         for w in ws:
             stemmed = ps.stem(w, 0, len(w)-1)
-            result.append(stemmed)
+            result.append(str(sentiment) + stemmed)
     return result
 
 testLineNos = []
@@ -25,62 +25,78 @@ while len(testLineNos) < 15:
 i = 1
 trueReviewWordCount = 0
 trueReviewWords =[ ]
-file = open('hotelT-train.txt', 'r')
-for line in file:
+positiveTrueReviews = 0
+negativeTrueReviews = 0
+f = open('hotelT-train-sentiment.txt', 'r')
+for line in f:
     if i in testLineNos:
-        testSentences.append("5 " + " ".join(line.lower().split()[1:]))
+        testSentences.append("1 " + " ".join(line.lower().split()))
     else:
-        trueReviewWords.extend((stem(" ".join(line.lower().split()[1:]))))
+        words = line.lower().split()
+        sentiment = int(words[0])
+        if(sentiment == 1):
+            positiveTrueReviews += 1
+        else:
+            negativeTrueReviews += 1
+        trueReviewWords.extend((stem(" ".join(words[1:]),sentiment)))
     i += 1
-trueReviewWordsCounter = collections.Counter(trueReviewWords)
+
 i = 1
 falseReviewWordCount = 0
 falseReviewWords =[ ]
-file = open('hotelF-train.txt', 'r')
-for line in file:
+positiveFalseReviews = 0
+negativeFalseReviews = 0
+f = open('hotelF-train-sentiment.txt', 'r')
+for line in f:
     if i in testLineNos:
-        testSentences.append("2 " + " ".join(line.lower().split()[1:]))
+        testSentences.append("0 " + " ".join(line.lower().split()))
     else:
-        falseReviewWords.extend((stem(" ".join(line.lower().split()[1:]))))
+        words = line.lower().split()
+        sentiment = int(words[0])
+        if(sentiment == 1):
+            positiveFalseReviews += 1
+        else:
+            negativeFalseReviews += 1
+        falseReviewWords.extend((stem(" ".join(words[1:]),sentiment)))
     i += 1
+trueReviewWordsCounter = collections.Counter(trueReviewWords)
 falseReviewWordsCounter = collections.Counter(falseReviewWords)
-
-# file = open('test1[Random Sample].txt', 'r')
+f = open('hotelDeceptionTestSentiment.txt', 'r')
 # file = open('test.txt', 'r', encoding="utf8")
-result = open('result.csv', 'a')
-trueReviewMiss = falseReviewMiss = 0
+result = open('result3.csv', 'a')
+tWeight = fWeight = 0
 tp = tn = fp = fn = 0
-for line in testSentences:
-    trueReviewWeight = falseReviewWeight = 0
+for line in f:
+    trueReviewWeight = falseReviewWeight = 0.0
     words = line.lower().split()
-    x = int(words[0])
-    words = stem(" ".join(words[1:]))
+    if(len(words) == 0):
+        continue
+    trueReview = int(words[0])
+    sentiment = int(words[1]) 
+    words = stem(" ".join(words[2:]),sentiment)
     for word in words:
         if word in trueReviewWordsCounter:
             tWeight = math.log((float(trueReviewWordsCounter.get(word) + 1)
                                          / float(len(trueReviewWords) + len(trueReviewWordsCounter.keys()))))
         else:
             tWeight = math.log(float(1)/float(len(trueReviewWords) + len(trueReviewWordsCounter.keys())))
-            trueReviewMiss += 1
         if word in falseReviewWordsCounter:
             fWeight = math.log(float(falseReviewWordsCounter.get(word) + 1)
                                          / float(len(falseReviewWords) + len(falseReviewWordsCounter.keys())))
         else:
             fWeight = math.log(float(1)/float(len(falseReviewWords) + len(falseReviewWordsCounter.keys())))
-            falseReviewMiss += 1
-        # print(word,pWeight,nWeight)
         trueReviewWeight += tWeight
         falseReviewWeight += fWeight
     print(line)
     print(trueReviewWeight,falseReviewWeight)
     print({True: 'True', False: 'False'}[trueReviewWeight>falseReviewWeight])
-    if trueReviewWeight>falseReviewWeight and x > 3:
+    if trueReviewWeight>falseReviewWeight and trueReview == 1:
         tp += 1
-    elif trueReviewWeight>falseReviewWeight and x < 3:
+    elif trueReviewWeight>falseReviewWeight and trueReview == 0:
         fp += 1
-    elif trueReviewWeight<falseReviewWeight and x > 3:
+    elif trueReviewWeight<falseReviewWeight and trueReview == 1:
         fn += 1
-    elif trueReviewWeight<falseReviewWeight and x < 3:
+    elif trueReviewWeight<falseReviewWeight and trueReview == 0:
         tn += 1
 print (tp, fp, fn, tn)
 print (tp+tn,fp+fn)
@@ -92,5 +108,5 @@ print("Precision",precision)
 print("Recall",recall)
 print("Accuracy",accuracy)
 print("fMeasure",fMeasure)
-result.write('{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}\n'.format(tp,tn,fp,fn,precision,recall,accuracy,fMeasure,trueReviewMiss,falseReviewMiss))
+result.write('{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}\n'.format(tp,tn,fp,fn,precision,recall,accuracy,fMeasure))
 result.close()

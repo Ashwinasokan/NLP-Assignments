@@ -1,0 +1,17 @@
+Approach:
+1. Naive bigram Viterbi implementation with add One smoothing
+2. Handled smoothing: Noticed that its required mostly in calculating emission probability. We had enough tag sequences. Only unknown words needed tweaking. So in case of unknown words did a fall back on count of words that was seen in corpus for the first time. This seem to have been helping as fMeasure improved.
+3. Tried to move from bigram to trigram model for transmission probability. But that doesn't seem to have helped much. In trigram model to handle unknown sequences implemented the deleted interpolation suggestion from text book in which I will be using trigram occurences to tune the weightage of all three grams. 
+
+Results:
+Approach			numEntities	numReturned	TruePositives	Precision	Recall		F1-measure	
+Viterbi(trained test data as well)27.75		22.05		19.1		0.8660777125	0.6782303595    0.7581921115		
+Viterbi with add one smoothing	30.9		15.85		12.6	   	0.7800163815	0.4110129439	0.5339576731	
+First time words count smooth 	27.24		21.12		14.76		0.6873482875	0.5445775957	0.6045689154
+Trigram transmission model	30.72		25.44		14.68		0.5729753647	0.4812062348	0.5189222807
+
+Validation Method:
+Randomly picked up 25 sentences from dataset and cross validated them. Made sure picked test sentences are not trained. Above results are averaged over 20 iterations in each approach for consistency.
+
+Test Results: https://docs.google.com/a/colorado.edu/spreadsheets/d/1jRoM04GoNTYra-BcWXufDaEDL1AFsS9VKjxOvKkaF5I/edit?usp=sharing
+
